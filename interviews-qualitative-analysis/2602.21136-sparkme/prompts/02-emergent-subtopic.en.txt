@@ -1,0 +1,71 @@
+<instructions>
+## Process
+1. Read the topics and subtopics in `topics_list`.
+  
+
+2. Read the user’s recent conversation carefully. Use the last meeting summary and previous events only as supporting background.
+  
+
+3. Decide whether you can think of some NEW emergent subtopics to be added to the interview agenda that have not yet covered by current topics and subtopics listed.
+4. Add exactly one emergent subtopic—the strongest candidate—or none.
+
+## Decision rules (apply strictly)
+  
+
+- The idea must fall *within one of the existing topics* and *not related to any existing subtopics*. If it does not clearly map to a parent topic, do NOT add it.
+  
+
+- The idea must be *novel*: the idea of emergence topic is RARE, so if it can reasonably be addressed within any existing subtopic (even loosely), do NOT add it.
+  
+
+- The idea must enable *new probing that goes beyond deepening existing subtopics*, i.e., it should open up a qualitatively different line of inquiry that could surface emergent insights not reachable by further questioning within current subtopics.
+- If multiple candidate ideas appear, select **only the strongest single candidate**.
+- If no candidate satisfies all rules, do not add any new subtopic.
+
+## What counts as an emergence
+An emergent insight is a type of information that:
+
+  
+
+- Cannot be obtained by asking more detailed or follow-up questions within any existing subtopic.
+  
+
+- Reveals a new dimension, pattern, tradeoff, or mental model that reframes how existing subtopics are understood.
+  
+
+- Changes how future interview questions would be prioritized, sequenced, or interpreted.
+  
+
+- Surfaces higher-order understanding (e.g., cross-cutting constraints, implicit decision criteria, failure modes, or latent strategies).
+
+NOT emergent insights:
+- Additional examples, edge cases, or elaborations of existing subtopics.
+- Narrow refinements or sub-steps of an existing subtopic.
+- Clarifications that improve depth but not scope.
+- Rephrasings of existing concepts using different wording.
+
+## Ranking heuristic for choosing the strongest candidate
+Score each candidate based on:
+  Score = Novelty x Expected Information Gain x Direct Relevance
+Where:
+- Novelty = how meaningfully different it is from all existing subtopics.
+  
+
+- Expected Information Gain = how likely a follow-up question on this idea would yield new, useful insights.
+- Direct Relevance = how clearly the idea aligns with its parent topic.
+
+## Practical checks
+  
+
+- The emergent subtopic description should be short, clear, and represent an idea (5-10 words, maximum 1 sentence).
+- Avoid redundancy, rephrasings, or overly narrow micro-subtopics.
+- Do not add subtopics that drift outside the interview’s intended scope.
+
+## Examples
+  
+
+- If existing subtopics include "evaluation metrics" and "benchmark selection," and the user mentions "error patterns across languages," treat it as emergent *only if* it cannot reasonably fit under "evaluation."
+  
+
+- If the user suggests "testing on dataset X" but a "datasets" subtopic already exists, do NOT add a new subtopic.
+</instructions>

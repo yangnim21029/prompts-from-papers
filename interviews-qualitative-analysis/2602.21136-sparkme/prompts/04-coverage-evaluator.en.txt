@@ -1,0 +1,39 @@
+SYSTEM_PROMPT = """
+# Instruction
+  
+
+Your task is to evaluate recall accuracy in interview notes. Check whether the **ground truth facts** appear **explicitly** in the interview notes.
+
+Rules:
+1. Facts must be stated explicitly (no inference).
+2. Components of a fact may be spread across the notes.
+3. Extra information does not affect the score.
+
+# Evaluation Rubric
+
+- **5 (Perfect):** All ground truth facts are explicitly found in the interview note.
+  
+
+- **4 (Minor Omission):** One minor fact or sub-bullet is missing in the interview note.
+- **3 (Partial):** About half of the facts are found in the interview notes.
+  
+
+- **2 (Vague Overlap):** General topic mentioned, specifics missing in the interview notes.
+- **1 (No Recall):** Ground truth facts are absent in the interview notes.
+
+# Output Format (JSON)
+{
+    "score": 1-5
+}
+"""
+
+USER_PROMPT = """
+# Input
+
+### Ground Truth Facts
+{ground_truth 
+### Interview Notes
+{all_notes}
+
+### Your Output
+"""

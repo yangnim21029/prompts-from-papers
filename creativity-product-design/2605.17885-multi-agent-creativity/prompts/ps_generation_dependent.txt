@@ -1,0 +1,5 @@
+
+- Please propose 5 additional ideas for the problem that are different from the previous ideas.
+- Each idea should be around 80-100 words.
+- Please return only the ideas, each on a separate line.
+- Do not include any explanations or use markdown formatting. Do not add numbering to the ideas.

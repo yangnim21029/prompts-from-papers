@@ -1,0 +1,105 @@
+\TABLE
+
+Breadth and depth codebooks for the four open-ended blocks.
+
+Theme
+
+What it captures
+
+Category usage, context and feelings (3 themes)
+
+Prior experience
+
+Whether and how they have replaced windows or doors before, or their familiarity with the category.
+
+General feelings
+
+How they generally feel about replacing (dread, indifference, stress, excitement, satisfaction).
+
+Reasons for feelings
+
+Why they feel that way (cost, hassle, disruption, importance, a past good/bad experience).
+
+Purchase journey (9 themes: union of the two journey variants; recently-replaced covers 8, considering covers 7)
+
+Trigger
+
+What initiated the need or the consideration.
+
+Research & information search
+
+How information was gathered (search, reviews, vendors).
+
+People involved
+
+Spouse, family, contractor, vendor, or neighbor.
+
+Options considered
+
+Brands, stores, materials, or product types weighed.
+
+Narrowing down
+
+How options were compared and reduced.
+
+Decision criteria
+
+What mattered most (price, quality, efficiency, …).
+
+Next step
+
+What they plan to do next (elicited in the considering variant).
+
+Outcome evaluation
+
+Satisfaction with the final result (elicited in the recently-replaced variant).
+
+Counterfactual
+
+What they would do differently (elicited in the recently-replaced variant).
+
+Brand awareness (4 themes)
+
+Brands top-of-mind
+
+Which window/door brands they name unaided.
+
+Awareness source
+
+How they became aware of those brands (ads, word of mouth, stores, contractors).
+
+Partner recognition
+
+Whether they had heard of the partnering brand before today.
+
+Partner source
+
+How they heard of or interacted with the partnering brand.
+
+Brand perception and satisfaction (6 themes; the prior-customer and prospect variants share these)
+
+Overall impression
+
+Overall impression of or associations with the brand.
+
+Feelings about the brand
+
+Positive, negative, or pointedly neutral sentiment.
+
+Brand character
+
+What kind of brand it seems and who it is for, including self-fit.
+
+Future consideration
+
+Whether they would consider, choose again, or recommend it.
+
+Openness drivers
+
+What makes them open to it (quality, warranty, reputation, referral, service).
+
+Barriers / concerns
+
+What holds them back (price, uncertainty, style, no current need).
+
+Note. For a given block, breadth is the number of these themes present and mean depth is the average 0–4 elaboration across present themes, so breadth is on a per-block scale. Each block’s moderator objective is documented in Appendix A.

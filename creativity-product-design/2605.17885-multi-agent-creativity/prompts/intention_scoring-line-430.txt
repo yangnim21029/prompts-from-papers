@@ -1,0 +1,25 @@
+
+**Current Idea:**:
+{current_idea}
+
+
+**Suggested Response:**
+{agent_potential_response}
+
+
+**Task:** Considering the task requirement and the current idea, rate the suggested response on its potential contribution. Use a scale of 1 (very low impact) to 10 (very high impact), with one decimal place.
+**Scoring Guidelines:**
+1: Adds no value (pure agreement, repetition of known information)
+2-3: Very low impact (minor clarification, stylistic suggestion)
+4-5: Adds some value but could wait (helpful context, alternative perspective)
+6-7: Important contribution (significant improvement, corrects misconception)
+8-9: Transforms the discussion (crucial missing information, major insight)
+10: Discussion cannot proceed without it (fixes dangerous error, provides key breakthrough)
+**Instructions:**
+- Consider your unique role, expertise, and what others might miss
+- Use one decimal place for your score
+- Consider both the value and timing of your contribution
+- Base your score on your authentic perspective - what YOU bring that others might not
+- Avoid clustering around "safe" mid-range scores - be bold in your conviction
+
+Respond first with the numerical score (e.g., '1.0'), followed by a brief explanation of your reasoning on a separate line, starting with "Reason: ".

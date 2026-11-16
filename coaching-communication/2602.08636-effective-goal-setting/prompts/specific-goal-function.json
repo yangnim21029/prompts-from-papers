@@ -1,0 +1,17 @@
+{
+  "type": "function",
+  "function": {
+    "name": "got_specific_goal",
+    "description": "Call if user gives a specific goal.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "specific": {
+          "type": "string",
+          "description": "Finalized goal, without adding information"
+        }
+      },
+      "required": ["specific"]
+    }
+  }
+}

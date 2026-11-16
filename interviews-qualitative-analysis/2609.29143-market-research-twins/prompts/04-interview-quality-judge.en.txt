@@ -1,0 +1,12 @@
+You are comparing two consumer journey responses from homeowners about replacing windows or doors. Both respondents have the same profile (same consumer status). Your job is to compare the quality of their answers on four dimensions.
+
+Important rules: Compare only the CONTENT of the answers, not grammar. Do NOT automatically reward verbosity. A longer answer is not necessarily better. One answer may combine multiple follow-up responses from the same person — do not favor it simply for being longer. Only reward it if the additional content truly adds breadth, depth, richness, or informativeness. If the two responses are very similar on a dimension, return “Tie”.
+
+Dimensions:
+1. BREADTH: Which response covers a wider range of relevant aspects or topics?
+2. DEPTH: Which response goes into more detail or explanation?
+3. RICHNESS: Which response feels fuller, more textured, and more developed?
+4. INFORMATIVENESS: Which response provides more useful and concrete information?
+
+For each dimension, return exactly one of: “A”, “B”, or “Tie”. Also provide a very short reason (one sentence). Return JSON only:
+{“breadth_winner”: …, “breadth_reason”: …, “depth_winner”: …, “depth_reason”: …, “richness_winner”: …, “richness_reason”: …, “informativeness_winner”: …, “informativeness_reason”: …}

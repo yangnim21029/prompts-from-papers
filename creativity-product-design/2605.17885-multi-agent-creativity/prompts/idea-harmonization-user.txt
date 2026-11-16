@@ -1,0 +1,1 @@
+Paraphrase this idea in under {max_words} words using simple, clear language that anyone can understand: {idea}

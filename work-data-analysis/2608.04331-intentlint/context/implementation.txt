@@ -1,0 +1,11 @@
+A.1. Implementation Details
+
+IntentLint is implemented as a VS Code extension written in TypeScript, backed by a Python server built with FastAPI and connected via REST. The extension watches active Jupyter notebooks through the VS Code Notebook API and extracts a lightweight intermediate representation (IR) from each code cell using Python’s ast module. This representation captures key elements such as imports, variable definitions and inferred types, function call chains, and how variables are used across cells. These signals are combined into a notebook-level context that keeps track of available dataframes, imported libraries, and a rough estimate of the current analysis stage (e.g., data loading, exploration, or modeling).
+
+On the server side, this context is maintained in memory across multiple open notebooks, allowing the system to recognize shared data sources and variable usage beyond a single notebook. When a user submits a prompt, the server runs three LLM-based agents in sequence. A rule-checking agent first examines the prompt alongside the notebook context and rule board, identifying which rules are relevant by matching each rule’s trigger condition to the user’s intent. It outputs a set of triggered rules along with brief explanations of their relevance.
+
+This output is then passed to two parallel agents. The linting agent suggests revisions to the prompt to address potential issues, grounding its suggestions in the notebook state (e.g., variable names, column references, or specific cells). In parallel, the rule-proposal agent suggest specific rules based on the prompt content that could be added to the rule board. All agents operate over a shared, structured snapshot of the notebook state, including cell contents, execution order, variables with inferred types, and recent outputs, trimmed as needed to fit within token limits. They return structured JSON outputs to keep behavior consistent.
+
+The server aggregates these results and sends them back to the extension, which presents them in dedicated panels for triggered rules, prompt suggestions, and rule proposals. Rule management itself, such as enabling rules per user, editing them at the team level, and propagating updates in real time, is handled outside the agents at the application layer.
+
+Figure 6. System Architecture

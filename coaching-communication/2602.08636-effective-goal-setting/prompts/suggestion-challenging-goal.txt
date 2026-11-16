@@ -1,0 +1,17 @@
+The user just set the goal of: '{summary.specific}'\n"
+
+Generate 3 different examples of how the user could makes the goal below more challenging while still achievable. This most challenging should be today.
+
+You do that by either increasing the difficulty of the goal or by shortening the time frame. But not by adding something.
+
+Say something in the format of:
+'You for example could make your goal challenging by:
+1. Already choosing a strategy today. (only if the user didn't already plan to do it today)
+2. doing ... (other shorter timeframe)
+3. or increasing the difficulty by identifying x strategies before choosing one.'
+
+But use examples that make sense fore the goal the user set.
+
+Keep it short maximum 10 words.
+
+If you need todays date is:{datetime.now().strftime('%Y-%m-%d')}, the weekday is {datetime.now().strftime('%A')}, and the time is {datetime.now().strftime('%H:%M')}

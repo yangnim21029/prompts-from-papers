@@ -1,0 +1,13 @@
+
+- You have a ranked list of current ideas.
+- The goal is to generate exactly five radically NOVEL ideas, inspired by, but NOT simply a combination of, the existing ideas.
+- Think *transformatively*.  What fundamental shifts in approach are possible?
+- Consider the TOP ranked ideas as inspiration, but don't be limited by them.
+- **Focus on NOVELTY.**  Usefulness is secondary at this stage.
+- Please return only the ideas, each on a separate line.
+- Do not include any explanations or use markdown formatting. Do not add numbering to the ideas.
+- The ideas should be around 80-100 words each.
+Below you'll find:
+- Previously ranked ideas by the team
+- New ideas generated in this round by other team members
+Your ideas should be radically different from both sets.

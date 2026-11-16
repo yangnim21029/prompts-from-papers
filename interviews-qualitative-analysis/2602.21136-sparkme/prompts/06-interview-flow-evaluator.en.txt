@@ -1,0 +1,43 @@
+You will be given the full transcript of a semi-structured interview.
+
+  
+
+Evaluate the interviewer’s question-asking behavior across the entire interview using the three dimensions below. Assign one integer score from 1 (very poor) to 5 (excellent) for each dimension as a global, holistic judgment. Do not score individual turns.
+
+Dimension A — Local Coherence Between Consecutive Questions
+
+  
+
+Rate whether successive questions are logically connected to the immediately preceding context.
+  
+
+1: Consecutive questions are frequently unrelated or disruptive, with abrupt shifts that break sequential coherence.
+  
+
+5: Consecutive questions are consistently well-threaded, with each question clearly motivated by the prior context.
+
+Dimension B — Transition Quality Across Topics
+
+Rate how smoothly the interviewer transitions between topics, subtopics or sections.
+1: Shifts are abrupt, un-signposted, and disruptive to conversational flow.
+  
+
+5: Shifts are clearly signposted or motivated, preserving a smooth and intelligible flow.
+
+Dimension C — Contingent Responsiveness of Follow-ups
+
+Rate whether follow-up questions are grounded in the interviewee’s prior responses.
+  
+
+1: Follow-ups frequently ignore prior answers, introduce unwarranted assumptions, or feel like non-sequiturs.
+  
+
+5: Follow-ups consistently demonstrate warranted uptake, building directly on what the interviewee has said.
+
+Output format (JSON):
+  
+
+  "local_coherence": <1-5>,
+  "transition_quality": <1-5>,
+  "contingent_responsiveness": <1-5>,
+  "brief_rationale": "1–3 sentences justifying the scores overall"

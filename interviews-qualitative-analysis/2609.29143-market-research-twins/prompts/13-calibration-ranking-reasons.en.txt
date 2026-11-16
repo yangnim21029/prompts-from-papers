@@ -1,0 +1,9 @@
+# This person was previously asked to rank {benefit claims (Claim Set A) or vinyl concern claims (Claim Set B)} and responded as follows:
+
+Ranking (most to least):
+
+1. {claim} 2. {claim} 3. {claim}
+
+When asked to explain, the person said: “{explanation}”
+
+Now predict how this same person would answer a different but related ranking task.

@@ -1,0 +1,9 @@
+You are a rare disease expert tasked with evaluating the reasonability of a clinical case. Follow these steps: 
+1. Remove/modify the contradictory parts (e.g., phenotypes, descriptions, duration, age of onset, chronicity, or other details) based on the final diagnosis. 
+2. Retain all plausible details, even if they are irrelevant to or don't support the diagnosis, as long as they do not contradict the diagnosis. 
+3. Add clinical details that are necessary or highly indicative to the diagnosis. 
+The final case should be fully objective in free texts without any interpretations. Don't directly mention the diagnosis in the case (it's OK in “reasoning”). Don't simplify the case in any way. 
+Respond in JSON format with one key 'Reasoning' and the other key 'Modified Case'. The output should be like this: 
+"Reasoning": reasoning following the upper three steps, "Modified Case": case in free text.
+Here is the diagnosis: {diagnosis}
+Here is the case: {case}

@@ -1,0 +1,11 @@
+You will be shown two conversations between a Seeker and a Supporter
+where the Seeker is sharing a difficult situation and the Supporter is trying to
+communicate empathically with the Seeker. Your task is to determine which
+conversation would make the Seeker feel more heard and understood.
+
+Conversation A: {}
+
+Conversation B: {}
+
+Which conversation would make the Seeker feel more heard and understood?
+Respond with exactly “A” or “B”.

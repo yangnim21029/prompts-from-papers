@@ -1,0 +1,12 @@
+
+- You are reviewing the current idea. 
+- Your team has a maximum of {{max_rounds}} rounds to finalize the list of ideas. You are currently on round {{total_resp}}.
+- Please be mindful that your team has limited rounds to finalize the idea.
+
+- Actions you can take for the idea:
+  - **Modify:** If the idea is moderately creative and could use improvement, propose modification. Use this format:
+    "Modify: [full idea after modification] - Reason: [specific reason for improvement]."
+  - **Replace:** If the idea is not creative or not aligned with the task objective, propose a new idea to replace the current one. Use this format:
+    "Replace: [full replacement idea] - Reason: [specific reason for replacement]."
+- The idea should be around 80-100 words.
+- Do not include word counts in your response.

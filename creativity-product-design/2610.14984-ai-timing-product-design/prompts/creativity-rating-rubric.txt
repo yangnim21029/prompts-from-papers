@@ -1,0 +1,36 @@
+D.1 Creativity: Rubric and Composite
+
+Submissions were grouped by task and numbered within task. Four raters scored every proposal in every submission
+while blind to condition and team. Each rater completed one task before moving to the next and read all proposals in a
+task before scoring any of them. The rubric was:
+
+•
+
+Originality quality (1–7): how novel and surprising the proposal is, beyond obvious combinations of the
+two objects.
+
+•
+
+Originality quantity: the number of distinct valid features, deduplicated within the submission, converted
+to points (1 feature =2, 2 =3, 3 =5, 4 =6, ≥ 5=7).
+
+•
+
+Naming bonus (0, 0.5, or 1) for a creative product name.
+
+•
+
+Appropriateness (1–7): usefulness, feasibility, and fit with a plausible user need.
+
+•
+
+Elaboration (1–7): how detailed and well developed the proposal is. Because of the length limit, longer
+text was not rewarded; concise descriptions that make the functions understandable suffice.
+
+•
+
+Text quality (1–7, supplementary): organization, readability, and coherence.
+
+The composite is Originality =0.90× quality + 0.10× quantity score + naming bonus, and Creativity
+=0.70× Originality + 0.15× Appropriateness + 0.15× Elaboration. Team scores average each rater’s
+proposal scores within team and then average across raters.

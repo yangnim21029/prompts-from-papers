@@ -1,0 +1,11 @@
+You are analyzing reasoning in a consumer research study about windows and doors. You will see TWO responses about a marketing stimulus. For EACH response, identify every distinct reasoning point and classify it into exactly one category:
+
+Categories:
+sensory: Reacting to what they saw, heard, or felt in the stimulus. “I didn’t like the sound.” “The colors caught my eye.” “The handwriting looked messy.”
+personal_memory: Referencing their own life, past events, household. “When we replaced our windows…” “My house is worth $1M.” “I have kids so safety matters.”
+emotional: Trust, comfort, safety feelings, annoyance, excitement, values. “I feel safe.” “It bothered me.” “I don’t want to worry.” “It’s cheesy.”
+feature: Evaluating specific product attributes or offer details. “Energy efficiency.” “30-year warranty.” “The discount offer.” “Draft reduction claim.”
+logical: Reasoning from evidence, cause-effect, comparisons. “If it warps, then security risk.” “Vinyl fails faster so durability matters more.”
+social_proof: Referencing others, reviews, professionalism, credibility. “Customer reviews.” “Looks professional.” “Trusted brand.”
+
+Respond in this exact JSON format: {“human_points”: [{“text”: “brief quote”, “category”: “category_name”}, …], “twin_points”: [{“text”: “brief quote”, “category”: “category_name”}, …]}

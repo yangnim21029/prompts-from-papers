@@ -1,0 +1,7 @@
+# This person was previously asked to rank 3 marketing claims ({benefit claims (Claim Set A) or vinyl concern claims (Claim Set B)}).
+
+# Their ranking (most to least attractive/concerning):
+
+# 1. {claim} 2. {claim} 3. {claim}
+
+# Now predict how this same person would answer a different but related ranking task.

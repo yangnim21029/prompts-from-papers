@@ -1,0 +1,23 @@
+{
+  "questions": {
+    "q1": {"question_text": "Diagnosis #1", "max_score": 1, "possible_scores": [0, 1]},
+    "q2": {"question_text": "Diagnosis #2", "max_score": 1, "possible_scores": [0, 1]},
+    "q3": {"question_text": "Diagnosis #3", "max_score": 1, "possible_scores": [0, 1]},
+    "q4": {"question_text": "Supporting Factors #1", "max_score": 2, "possible_scores": [0, 1, 2]},
+    "q5": {"question_text": "Supporting Factors #2", "max_score": 2, "possible_scores": [0, 1, 2]},
+    "q6": {"question_text": "Supporting Factors #3", "max_score": 2, "possible_scores": [0, 1, 2]},
+    "q7": {"question_text": "Opposing Factors #1", "max_score": 2, "possible_scores": [0, 1, 2]},
+    "q8": {"question_text": "Opposing Factors #2", "max_score": 2, "possible_scores": [0, 1, 2]},
+    "q9": {"question_text": "Opposing Factors #3", "max_score": 2, "possible_scores": [0, 1, 2]},
+    "q10": {"question_text": "Final diagnostic decision", "max_score": 2, "possible_scores": [0, 1, 2]},
+    "q11": {"question_text": "Three additional steps", "max_score": 2, "possible_scores": [0, 1, 2]}
+  },
+  "case_diagnoses": {
+    "1": "Cholesterol Embolization Syndrome",
+    "2": "Paraneoplastic Dermatomyositis",
+    "3": "Infective Endocarditis",
+    "4": "Multiple Myeloma",
+    "5": "Pernicious Anemia",
+    "6": "Polycythemia Vera"
+  }
+}

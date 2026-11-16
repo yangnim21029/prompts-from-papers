@@ -1,83 +1,2427 @@
 [
   {
-    "path": "writing-revision/2604.11009-planning-to-revision/paper.pdf",
-    "source": "https://arxiv.org/pdf/2604.11009v2",
-    "license": "CC BY-NC-SA 4.0",
-    "changes": "Unmodified PDF",
-    "accessed": "2026-11-13",
-    "sha256": "1fec75e741aadc3cb6515a7400e6b0dec5deda3569b74a68adc27974b35ddd37"
-  },
-  {
-    "path": "writing-revision/2604.11009-planning-to-revision/prompts/01-thesis-ideas.en.txt",
-    "source": "https://arxiv.org/html/2604.11009v2#A3.SS1.SSS1",
-    "license": "CC BY-NC-SA 4.0",
-    "changes": "HTML formatting removed; wording retained",
-    "accessed": "2026-11-13",
-    "sha256": "219341c8f9cc3e1fa115cf91cb8d8623ac189b5945746ea7ec47d57d58f19ea3"
-  },
-  {
-    "path": "writing-revision/2604.11009-planning-to-revision/prompts/02-more-thesis-ideas.en.txt",
-    "source": "https://arxiv.org/html/2604.11009v2#A3.SS1.SSS2",
-    "license": "CC BY-NC-SA 4.0",
-    "changes": "HTML formatting removed; wording retained",
-    "accessed": "2026-11-13",
-    "sha256": "0483cee306c038283ade22b48b9f414f25a69f25bf1e6a1cc122e6992794b0c2"
-  },
-  {
-    "path": "writing-revision/2604.11009-planning-to-revision/prompts/03-outline.en.txt",
-    "source": "https://arxiv.org/html/2604.11009v2#A3.SS1.SSS3",
-    "license": "CC BY-NC-SA 4.0",
-    "changes": "HTML formatting removed; wording retained",
-    "accessed": "2026-11-13",
-    "sha256": "7811d62b576e5df7efa0c47d57e87a8e3013486a508f1f9a790bc83789c0a787"
-  },
-  {
-    "path": "writing-revision/2604.11009-planning-to-revision/prompts/04-draft.en.txt",
-    "source": "https://arxiv.org/html/2604.11009v2#A3.SS2.SSS1",
-    "license": "CC BY-NC-SA 4.0",
-    "changes": "HTML formatting removed; wording retained",
-    "accessed": "2026-11-13",
-    "sha256": "6b4b8d650f076a20e94960bc74cfc932a215e59b54fe1b81fea5ff8962aedecd"
-  },
-  {
-    "path": "writing-revision/2604.11009-planning-to-revision/prompts/05-proofreading.en.txt",
-    "source": "https://arxiv.org/html/2604.11009v2#A3.SS3.SSS1",
-    "license": "CC BY-NC-SA 4.0",
-    "changes": "HTML formatting removed; wording retained",
-    "accessed": "2026-11-13",
-    "sha256": "292ca036d61d746489df37432d904092e956b82802d15eed59b5b43b9516e1ae"
-  },
-  {
-    "path": "writing-revision/2604.11009-planning-to-revision/prompts/06-writing-clarity.en.txt",
-    "source": "https://arxiv.org/html/2604.11009v2#A3.SS3.SSS2",
-    "license": "CC BY-NC-SA 4.0",
-    "changes": "HTML formatting removed; wording retained",
-    "accessed": "2026-11-13",
-    "sha256": "04af11f77f1640fc266bb124c30e63c72a7c8bfaf1dbea875d5a4bf007c12cb7"
-  },
-  {
-    "path": "writing-revision/2604.11009-planning-to-revision/prompts/07-argument-improvement.en.txt",
-    "source": "https://arxiv.org/html/2604.11009v2#A3.SS3.SSS3",
-    "license": "CC BY-NC-SA 4.0",
-    "changes": "HTML formatting removed; wording retained",
-    "accessed": "2026-11-13",
-    "sha256": "567abff46c3e5545267a4da15744fa817be293cd479c76b559431e18c6fa438c"
-  },
-  {
-    "path": "style-imitation/2601.18353-good-writing/paper.pdf",
-    "source": "https://arxiv.org/pdf/2601.18353v1",
+    "path": "close-reading/2603.06855-poem-interpretation/paper.pdf",
+    "source": "https://arxiv.org/pdf/2603.06855v1",
     "license": "CC BY 4.0",
     "changes": "Unmodified PDF",
     "accessed": "2026-11-13",
-    "sha256": "27121d97dcf57aa91084fc620c7269a5aecf7e5353238ef1a676cdd4d813ad02"
+    "sha256": "d637dcbcf074812c246744c9268867dc3d212d0dd7720a161c6d456d7f679a43"
   },
   {
-    "path": "style-imitation/2601.18353-good-writing/prompts/style-imitation.adapted.en.txt",
-    "source": "https://arxiv.org/html/2601.18353v1#S3.SS1.SSS3",
-    "license": "Original adaptation; source method cited",
-    "changes": "New reusable wording based on the study method; literary excerpts and author-specific content omitted",
+    "path": "close-reading/2603.06855-poem-interpretation/prompts/close-reading-task.en.txt",
+    "source": "https://github.com/xxxxbrandieeee/close-reading-interface/blob/main/close-reading/src/pageInfo.ts",
+    "license": "MIT",
+    "changes": "Extracted page5_1.left_top_instruction; HTML removed; UI wording retained",
     "accessed": "2026-11-13",
-    "sha256": "7acadc35bec8804cda721d313b8ceba74a0e65ca55e1c23e1b12df174622d485"
+    "sha256": "b037f81dd0aa6155697767be71a25e5a92e86e5c5523341377a906bc8aa89fce"
+  },
+  {
+    "path": "coaching-communication/2602.08636-effective-goal-setting/paper.pdf",
+    "source": "https://arxiv.org/pdf/2602.08636v1",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "無；原始 PDF。",
+    "sha256": "e55ef7d6b64497db7e632eefc287533813a90e8535d136287e218d7b3b160360",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "coaching-communication/2602.08636-effective-goal-setting/prompts/control-first-message.txt",
+    "source": "https://arxiv.org/html/2602.08636v1",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "由作者 TeX 的 codecard 擷取；移除語法高亮標記／Python 包裝，百分號解除 LaTeX 跳脫；其餘文字、拼字與模板變數不改。",
+    "sha256": "9041c1e2c839b514edb8cae8a23b76fede6cda1750c11271001f6cca78d00f37",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "coaching-communication/2602.08636-effective-goal-setting/prompts/control-implementation-intention.txt",
+    "source": "https://arxiv.org/html/2602.08636v1",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "由作者 TeX 的 codecard 擷取；移除語法高亮標記／Python 包裝，百分號解除 LaTeX 跳脫；其餘文字、拼字與模板變數不改。",
+    "sha256": "b72353b2fde6c91a35c37bc4126095d23692daf514993c7224b7002090994b28",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "coaching-communication/2602.08636-effective-goal-setting/prompts/feedback-specific-goal.txt",
+    "source": "https://arxiv.org/html/2602.08636v1",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "由作者 TeX 的 codecard 擷取；移除語法高亮標記／Python 包裝，百分號解除 LaTeX 跳脫；其餘文字、拼字與模板變數不改。",
+    "sha256": "3eb98f45fd15c04c8131876071b5e2754532090e589ad2197a20bb1d6672aa47",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "coaching-communication/2602.08636-effective-goal-setting/prompts/specific-goal-function.json",
+    "source": "https://arxiv.org/html/2602.08636v1",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "由作者 TeX 的 codecard 擷取；移除語法高亮標記／Python 包裝，百分號解除 LaTeX 跳脫；其餘文字、拼字與模板變數不改。",
+    "sha256": "79b1f84fe3c74b14432d988e0ab699ca2852c85a458a0a33052e77acaaff81aa",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "coaching-communication/2602.08636-effective-goal-setting/prompts/suggestion-challenging-goal.txt",
+    "source": "https://arxiv.org/html/2602.08636v1",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "由作者 TeX 的 codecard 擷取；移除語法高亮標記／Python 包裝，百分號解除 LaTeX 跳脫；其餘文字、拼字與模板變數不改。",
+    "sha256": "2c88666f72e54db818f58b034b22effc6ba93b183419e4a4e7428b4fa01e3515",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "coaching-communication/2603.15245-empathic-communication/paper.pdf",
+    "source": "https://arxiv.org/pdf/2603.15245v2",
+    "license": "CC BY 4.0",
+    "changes": "Unmodified PDF",
+    "sha256": "e9db067582cdcf1c3ec713ac20131eb0cab4a4e3a0bdbc7f28e63c8e53fe1208",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "coaching-communication/2603.15245-empathic-communication/prompts/01-role-playing-scenarios.en.txt",
+    "source": "https://arxiv.org/html/2603.15245v2#A3.p1",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "d4c54b5025402ae3966b55c9398993601925b5315c4651b1f47a370c77ec6567",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "coaching-communication/2603.15245-empathic-communication/prompts/02-communication-coach.en.txt",
+    "source": "https://arxiv.org/html/2603.15245v2#A5.p1",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "fd1b224e3855cbab143be2758129899f871f13666e35e2ad6204b9ae9558376f",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "coaching-communication/2603.15245-empathic-communication/prompts/03-simulated-supporter.en.txt",
+    "source": "https://arxiv.org/html/2603.15245v2#A9.p2",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "b8e19489ef6e56c7b2244fa627410b2d94f8a7000cca5403d7604d1fd084cc12",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "coaching-communication/2603.15245-empathic-communication/prompts/04-pairwise-empathy-judge.en.txt",
+    "source": "https://arxiv.org/html/2603.15245v2#A12.p2",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "3882819057abd3a0de916b8ba48ed7852311c5ad3ee40b0feafc96f277c8fe4f",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "coaching-communication/2606.05995-empathy-on-demand/paper.pdf",
+    "source": "https://arxiv.org/pdf/2606.05995v1",
+    "license": "CC BY 4.0",
+    "changes": "Unmodified PDF",
+    "sha256": "abf7673c69072d1c698a7461fb1167cbda88ab12c6ac1d4d3e37915eecb475f4",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "coaching-communication/2606.05995-empathy-on-demand/prompts/01-support-response.en.txt",
+    "source": "https://osf.io/pxj4n?view_only=defc9f54efc04e5a811a58bae22a1b5c",
+    "license": "MIT",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "b8e6c9f8c812d08bf84e7639be6661d66b0b65c6c36d7e126824d8de0b2afc13",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "coaching-communication/2606.05995-empathy-on-demand/prompts/LICENSE-NOTICE.md",
+    "source": "https://osf.io/6zv9m?view_only=defc9f54efc04e5a811a58bae22a1b5c",
+    "license": "MIT",
+    "changes": "Unmodified upstream README containing code and data license declarations",
+    "sha256": "c7ed353ab237931c249601f8e6b2c64d1ecaf77645b31bc459166a25f828a3ba",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/aut_direct_discussion_all_at_once.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L286",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "6760e06f9fd486f90aba53f1a809be601b9dbc1e0fbe80e8df20172e56960d94",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/aut_direct_discussion_one_by_one.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L311",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "1a164e84786b244c9577d2a346b655e59ea08aa6122c501ec9602378addd53b3",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/aut_direct_first_round_all_at_once.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L280",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "68599c2f4d8a0303ae33da7fa69cfdb0a007bf761b67659d370f679051f23909",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/aut_direct_first_round_one_by_one.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L306",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "d9fc8dbda287c668721c0789653c2c34d8aec2ce5c0e105c97860225281fd8cf",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/aut_mode1_discussion_rating_allatonce.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L35",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "62f2882ddf331ed2b5bf201110932c177db3115e1a22b48de58254438b3a42c8",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/aut_mode1_discussion_rating_onebyone.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L85",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "095e92f367ced4666b2549669dfbbcfa0e3083cc609873c00a1931dbfdb26e3c",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/aut_mode1_discussion_selectiontop_allatonce_firstagent.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L55",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "722ab55eeaee979b680416b5207563af5f0060a3a21d67fd6325623e5f40ba23",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/aut_mode1_discussion_selectiontop_allatonce_otheragents.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L72",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "9fdd03ae634bcf5204e655097742206234632c50b91320a9d14b7def8e9262a4",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/aut_mode1_discussion_selectiontop_onebyone.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L103",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "267964984fb585457ce8e36e99fa4b5ed6833ba898c2b4171fb87d6d2982b452",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/aut_mode1_idea_generation.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L9",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "18536f3d3c26f701040af568336064606f0a452c1dba8984385542d142b85f2c",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/aut_mode1_idea_generation_dependent.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L15",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "98d9a47429d51969f9d2b335a87a4fe2a012cdf7bfba3f37aba70d2edbb7a544",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/aut_mode1_overall.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L4",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "e393c61f6bbc259e980ac280dfc51538bc50a0e406e4fb0de6b131b59cdc8e8f",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/aut_mode1_selection_rating.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L21",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "a0d9c8121bc77b6c57edd6a88f508c8fd2ba6feaab16152494998eb32bf4ac6a",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/aut_mode1_selection_selectiontop.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L29",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "5537424ce7d802a1853cfdad97d5185a7241e7c0e5e156564be3fdcb311ac231",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/creative_idea_generation.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L396",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "b698c67ae006cc9fb5c9071ee554ba3bc93985a6c47825546274c9eb04e36b3f",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/idea-harmonization-system.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/preprocessing/azure_paraphrase_service.py#L98",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "擷取作者實際使用的 system 字串；保留原文字與縮排。",
+    "sha256": "da3178bb8f9dd5b8bb21e6f21d75b3f3543f34f5608f4c1599d5d2b40b4bb53b",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/idea-harmonization-user.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/preprocessing/azure_paraphrase_service.py#L124",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "擷取作者 f-string 內容，保留變數。",
+    "sha256": "e72521c378347f02e5d55e71bf9a2e8174895b773283ea5e9120eb749515febb",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/intention_prompt_idea.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L425",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "8aad7ef0e7bc8d7131ec3ba8c6f0b7578564775c2a56f6eb47e2793ebd11885d",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/intention_prompt_ideas.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L420",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "878f2ba2b77634b871ac059b5e398d355156af9d2b5a9052d6560133b0a6adbc",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/intention_scoring-line-430.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L430",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "a15da628d63c789ea49b20cf3adace59aa4c28ece281a0ffe0839827a797a8e2",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/intention_scoring-line-451.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L451",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "6323aa29347bf7e6ff2ee594c1c98f79a1ecdaf02818d23dbb2b8a82e2a0f19f",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/practical_improvement.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L411",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "b29aa1f0c311a5175af36c7cc32f77b82026db4fee77197d222910642dd7d252",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_direct_discussion_all_at_once.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L351",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "60f3aaf0ba5f0b0c717fd6da25714cfd4df008a3cafc77cfee3d22a4aa4d91d2",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_direct_discussion_all_at_once_nopool.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L263",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "8d8ec40763aae6acf4777ab6f68a438152bc3a9d66fab2a3b290b59867e593bf",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_direct_discussion_all_at_once_pre.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L336",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "06accca15e543d7fb3edd99dfe6ec3842164ada9fac04dd34562ac4961fc92df",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_direct_discussion_all_at_once_restriction_first.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L366",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "95e681075e8f1960c3ca619f1c61360b72eb200b19d96df40c7e15bf4db2dd8c",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_direct_discussion_all_at_once_restriction_other.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L380",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "60f3aaf0ba5f0b0c717fd6da25714cfd4df008a3cafc77cfee3d22a4aa4d91d2",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_direct_first_round_all_at_once.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L329",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "2248154e76f6ed9263eb56341509a12a84fc7b00088afc55cca2150ef5c480e4",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_discussion_rating.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L187",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "9a4b9087c31aba42ee4b8e77831c4654b549517597d6e27a98e7182f4d483147",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_discussion_rating_nopool.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L248",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "c9705f7a2d92f2db464c0afd0429d0943575c4e896463fff0155721a2c5221bc",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_discussion_rating_pre.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L203",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "6795b50e858653d53aefa29b33db2ee709b2820247dc7fe7095967b2b8af86d1",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_discussion_selectiontop.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L218",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "5d2028fbc1befb4bf993b0d6fa4ebab8dbbcf8e7d42738bd564cebcdf1df4246",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_discussion_selectiontop_pre.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L234",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "b7b9537b56b9ddf7ca15c82b396b83635fbfe229301d70ee7dbb676d6e1938f4",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_generation.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L149",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "31e956d28e384d2155188a8a158bf17cc33e75e10c7bd6c9b46ea0fcbdc9c6ec",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_generation_dependent.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L156",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "ef85bb6fb342b54b782039a929a2755662a755023e517072ccac51a3d94006b3",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_questions-education_inequality.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L122",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "a36cd1cd545c25cec12357032edbe604a346531a20cc20b22668a361796361c4",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_questions-employee_attrition.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L122",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "873510102c585822ee9690535962e5c7c9c98ad4dcd8b97b012fab6c2c4bc2d8",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_questions-plastic_waste.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L122",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "f963f27adccd372db3866f0fd73d872563d645ba75d77aeb5a2de785cbf93695",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_questions-singing_shower.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L122",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "6fe755437f2ec294be89299ddae10ac4512b6f861ef14f4818e38fd9d98ee5bd",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_questions-sorry_pandemic.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L122",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "d05ea57192670e963c2f160b244f525de549f6ae57024ec970f1eb593cf29320",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_questions-supply_chain.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L122",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "6a3a579c6c5d721a153208897b90e542f90ee7d0a28bb3b3e09f839e46d35110",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_selection_rating.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L163",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "735c478c2dfc8b21e299220b5eb49289ebf49f1e0cbf6845222812c43c0768cc",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_selection_rating_novelty.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L174",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "fe1caad2ac392ededd26ed5ccbdc79516cc681b4a09dc094092dffb885f21455",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/prompts/ps_selection_selectiontop.txt",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py#L181",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "從 Python 字串常數解碼；保留全部文字，轉為 UTF-8 純文字。",
+    "sha256": "205e275a4f94515826f358a215f59471d915669a1378940c815b5f8f78a260d7",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/upstream/LICENSE",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/LICENSE",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "1349a4b6148492b44f629e64eed676612e234fe9a839e4f3b277c1482c8849f1",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/upstream/generation/README.md",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/README.md",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "無；完整作者原檔。只保存供參考，未執行 API 呼叫。",
+    "sha256": "f620990d5cefc4593b23e56a48895f01bf4243db015c1b469252de84c141f2c5",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/upstream/generation/agent.py",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/agent.py",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "無；完整作者原檔。只保存供參考，未執行 API 呼叫。",
+    "sha256": "3658bf226e54c7a0453508a81680d0894ff5839c323bc6b9d5f94c570b543c71",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/upstream/generation/message_strategies.py",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/message_strategies.py",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "無；完整作者原檔。只保存供參考，未執行 API 呼叫。",
+    "sha256": "3f42dc4c0c15adb32fd82f127d9b72b59dc5508114205f25c086478eb19baff1",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/upstream/generation/prompts.py",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/prompts.py",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "d42339ebe20a3722f585019089bf8d24686416f8e69d38e5245963569dd84083",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/upstream/generation/roles.py",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/generation/roles.py",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "無；完整作者原檔。只保存供參考，未執行 API 呼叫。",
+    "sha256": "0a42dccbfc8b8db199aca360f4998605cf906eb37ed1d8921ae0c04c5913b910",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/upstream/preprocessing/README.md",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/preprocessing/README.md",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "無；完整作者原檔。只保存供參考，未執行 API 呼叫。",
+    "sha256": "8e46ca137431a32880a882308608d318e61754a79d9e5ef8e485578784d8cc36",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/upstream/preprocessing/azure_paraphrase_service.py",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/preprocessing/azure_paraphrase_service.py",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "無；完整作者原檔。只保存供參考，未執行 API 呼叫。",
+    "sha256": "bab19db04ac8de73ffb1c033c345c1cdee98c580a8c1beef5647e1e2bff3046d",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2605.17885-multi-agent-creativity/upstream/preprocessing/paraphrase_ideas_csv.py",
+    "source": "https://github.com/pitehu/llm_multiagent_creativity/blob/f7e5245a9f6c8a943417ae49b8b3469b6b75424e/preprocessing/paraphrase_ideas_csv.py",
+    "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "changes": "無；完整作者原檔。只保存供參考，未執行 API 呼叫。",
+    "sha256": "9ad0e489fcf21bfbbaa329ad253f066a42070436f26c75f730a4175d34ad96b2",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2610.14984-ai-timing-product-design/context/experimental-materials.tex",
+    "source": "https://arxiv.org/html/2610.14984v1#S2a",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "原始 TeX Appendix B 全節節錄（完整實驗素材章），未改文字。",
+    "sha256": "cd6f6394b0f26892249dd8776be28b1674bdb1d18128253a1b1399709d93e654",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2610.14984-ai-timing-product-design/paper.pdf",
+    "source": "https://arxiv.org/pdf/2610.14984v1",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "無；原始 PDF。",
+    "sha256": "40dc10a92aa5e12c271fd4b70bc6fef6f03af1d86886cb69051e3ba000489aac",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2610.14984-ai-timing-product-design/prompts/creativity-rating-rubric.txt",
+    "source": "https://arxiv.org/html/2610.14984v1#S4.SS1a",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "完整 Appendix D.1 文字擷取；保留項目與公式，MathML 改為原始 LaTeX alttext 避免重複。 將 LaTeX 乘號、不小於符號與薄空格轉成 Unicode／空格。",
+    "sha256": "5b764a5d7e78dbbf866da7cb5c624a2c9e448e793dfff62508079e91a9340130",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "creativity-product-design/2610.14984-ai-timing-product-design/prompts/product-design-assistant.txt",
+    "source": "https://arxiv.org/html/2610.14984v1#S2.SS3a",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "擷取論文提供的完整英文翻譯 system prompt；HTML 樣式轉純文字。",
+    "sha256": "9048561799486c45e02be4baf93f190f409b89f7f7a5c9c95e7be82b7dc899d0",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2601.08402-pats/dialog-evaluation-prompts-excerpt.md",
+    "source": "https://arxiv.org/html/2601.08402v1#A6.SS1.SSS2",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "d98b1db02897c72ee9b10adb958de2225b96749d6e7784aef7c55ff9cc67349b",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2601.08402-pats/paper.pdf",
+    "source": "https://arxiv.org/pdf/2601.08402v1",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None; original PDF bytes.",
+    "sha256": "7043aa8e9749a81e42a3e09e8e6b2f23ab7d70fda9ff795e5a5a9f79c457d2e4",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2601.08402-pats/pats-orchestration-prompts-excerpt.md",
+    "source": "https://arxiv.org/html/2601.08402v1#A5.SS3",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "33fe0730c8ac8ed22053af149b8f1488e6cbaf74488da32c62da089792b6a44e",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2601.08402-pats/strategies-and-personality-context-excerpt.md",
+    "source": "https://arxiv.org/html/2601.08402v1#A2",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "10b83ea457332c91eb6922068e5b19b641a538f87feb144cbe3c456b3f2f31d5",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2601.08402-pats/student-simulator-prompts-excerpt.md",
+    "source": "https://arxiv.org/html/2601.08402v1#A5.SS1",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "7147fdb5add620b0784077c140e9a449bb1a98f78e7098ed7345c5124a19020f",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2601.08402-pats/teacher-baseline-prompts-excerpt.md",
+    "source": "https://arxiv.org/html/2601.08402v1#A5.SS2",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "fa70556ed6c779dad58d8d41f5900ea3d62b0a2779e6ffc5408de0df1e02a0d8",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2604.02221-mudoc/LICENSE-Apache-2.0.txt",
+    "source": "http://www.apache.org/licenses/LICENSE-2.0.html",
+    "license": "Apache-2.0",
+    "changes": "Apache licence text as returned by the OSF project licence API.",
+    "sha256": "69ce94606a661fa3290eeaca21f3f9ad7d73dc985ffa346a1104704548f72d93",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2604.02221-mudoc/PROMPT_DocSearch.md",
+    "source": "https://osf.io/download/7h2ye/?view_only=0d1f109e401a4c80a028ea02ff9489bb",
+    "license": "Apache-2.0",
+    "changes": "None; original source file copied byte-for-byte.",
+    "sha256": "bde253fc73e22b1b099ce72ae645370c6557cc64a980d646d94f20dee1afef8b",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2604.02221-mudoc/PROMPT_ImageCaption.md",
+    "source": "https://osf.io/download/6jecb/?view_only=0d1f109e401a4c80a028ea02ff9489bb",
+    "license": "Apache-2.0",
+    "changes": "None; original source file copied byte-for-byte.",
+    "sha256": "1eb40d99ba618f57bb76bc5654c25b7948db396657bebfbdafb0ed7fe0e6d02f",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2604.02221-mudoc/PROMPT_ImageDescription.md",
+    "source": "https://osf.io/download/rkw48/?view_only=0d1f109e401a4c80a028ea02ff9489bb",
+    "license": "Apache-2.0",
+    "changes": "None; original source file copied byte-for-byte.",
+    "sha256": "102a2829ab13a01054498e43df3ffd9760a9cb6657576cfcad587991bd9197e1",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2604.02221-mudoc/PROMPT_MuDoC.md",
+    "source": "https://osf.io/download/4e25w/?view_only=0d1f109e401a4c80a028ea02ff9489bb",
+    "license": "Apache-2.0",
+    "changes": "None; original source file copied byte-for-byte.",
+    "sha256": "7a8a4e64835b71eb6448d36b6d761ec77837ceab91d6f7542cd974e86b53ffc3",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2604.02221-mudoc/PROMPT_Summary.md",
+    "source": "https://osf.io/download/sthkr/?view_only=0d1f109e401a4c80a028ea02ff9489bb",
+    "license": "Apache-2.0",
+    "changes": "None; original source file copied byte-for-byte.",
+    "sha256": "524e0e964a9e6f71825f22e5a01411d76a1ead7d8eb26a2c4d72fef4b7eaf00d",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2604.02221-mudoc/PROMPT_TexDoC.md",
+    "source": "https://osf.io/download/2u5jk/?view_only=0d1f109e401a4c80a028ea02ff9489bb",
+    "license": "Apache-2.0",
+    "changes": "None; original source file copied byte-for-byte.",
+    "sha256": "399971e7a0eade86d8b8092f5cc2bb89a47da43d432b1c93ef8b50fefc6d492e",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2604.02221-mudoc/source-license-evidence.json",
+    "source": "https://api.osf.io/v2/nodes/3eabq/?view_only=0d1f109e401a4c80a028ea02ff9489bb",
+    "license": "factual metadata",
+    "changes": "Factual licence evidence selected from API; no source prompt modified.",
+    "sha256": "efa0caa91b0aa6d25d0b5d8ffadc5fb778244e71351167119543ed9630443a28",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2604.19931-deferred-hints/paper.pdf",
+    "source": "https://arxiv.org/pdf/2604.19931v1",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None; original PDF bytes.",
+    "sha256": "37173a2a4ba86bd236bc3ede9099ff6eb4872e7f1479e3df36d10cf36f3dbaa0",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2606.08807-programming-feedback/failing-test-case-feedback-excerpt.md",
+    "source": "https://arxiv.org/html/2606.08807v1#S3.SS5.SSS0.Px1",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "be3b1c71d68de16e6118f87f32214f2fa2b8ddc8370970707dee0e379bd1fff8",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2606.08807-programming-feedback/natural-language-hint-excerpt.md",
+    "source": "https://arxiv.org/html/2606.08807v1#S3.SS5.SSS0.Px2",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "f7217b63efab1648d0c3c303ce881fee7059b232053418470ab6cb6c9bec5c54",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2606.08807-programming-feedback/paper.pdf",
+    "source": "https://arxiv.org/pdf/2606.08807v1",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None; original PDF bytes.",
+    "sha256": "1942b7551e75fcc2622a1beed8c9e71e2a764a11d53689daf01edae47b4d0fe9",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2606.20138-adaptive-tutoring/literature-baseline-prompt-excerpt.md",
+    "source": "https://arxiv.org/html/2606.20138v2#A6",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "dd77512f289e900857289010a7287ade51967bc1586157b080eff7900a064e26",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2606.20138-adaptive-tutoring/paper.pdf",
+    "source": "https://arxiv.org/pdf/2606.20138v2",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None; original PDF bytes.",
+    "sha256": "317ecc7981ea6aee121ef3d80974b3ef37f7e33e9330dba96013b8a03967cc9c",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2606.20138-adaptive-tutoring/pedagogical-evaluator-and-rubric-excerpt.md",
+    "source": "https://arxiv.org/html/2606.20138v2#A8",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "150a3c036cd2768690221322eeedb51c0facdc3ae802325540fe9b02926aff10",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2606.20138-adaptive-tutoring/production-baseline-blueprint-excerpt.md",
+    "source": "https://arxiv.org/html/2606.20138v2#A4",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "ad6b650e270e352762610a1511899ceb2babe15e1de943ca9d69dd7b05c36ce9",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2606.20138-adaptive-tutoring/student-style-and-persona-prompts-excerpt.md",
+    "source": "https://arxiv.org/html/2606.20138v2#A7",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "074641f87b9e55f7c0823c3ec9194c1a59148af53715e0981e86c371b59095fc",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2606.20138-adaptive-tutoring/twenty-strategy-prompt-space-excerpt.md",
+    "source": "https://arxiv.org/html/2606.20138v2#A5",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "c5eda3daacac10cf46b66c1f3733bbca8f0e310e9c86981e083a2cd71101282e",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2606.22349-curiobot/conversation-judge-and-ten-rubrics-excerpt.md",
+    "source": "https://arxiv.org/html/2606.22349v1#A3",
+    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "af120f4529256c9d4ab3f90f8fdc80175e2720be1f6af0fa1ab731b723c1a806",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2606.22349-curiobot/learner-prompt-and-study-topics-excerpt.md",
+    "source": "https://arxiv.org/html/2606.22349v1#A5",
+    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "ceb96f9592580d45f98af36234e6ae252a202afce8862be82f16921d52de6544",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2606.22349-curiobot/modulator-and-generator-excerpt.md",
+    "source": "https://arxiv.org/html/2606.22349v1#A2",
+    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "51788c8fff4dfab3d851eedf86bc7c0fef5ebe58279caba51a033b28f0165485",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2606.22349-curiobot/paper.pdf",
+    "source": "https://arxiv.org/pdf/2606.22349v1",
+    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "changes": "None; original PDF bytes.",
+    "sha256": "1d3ce96aa5c38535b0b31e5acdac951d366386ed9673cd41943225e23db14cb2",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2607.08849-learning-impact/conversation-use-classifier-excerpt.md",
+    "source": "https://arxiv.org/html/2607.08849v2#A2.SS6.SSSx2par.p9.1.1",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "8a6740ba090a6fc441ed1e84b1e05cff84c4f358613847e4646bbdfc416b4712",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2607.08849-learning-impact/essay-grader-and-dimensions-excerpt.md",
+    "source": "https://arxiv.org/html/2607.08849v2#A2.SS4\\par",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "e2b43f2c5994f581148870394648ca476056a0f84c154150fe3cc25e024e33c0",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2607.08849-learning-impact/paper.pdf",
+    "source": "https://arxiv.org/pdf/2607.08849v2",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None; original PDF bytes.",
+    "sha256": "cd4ab7f3324ea7217c2c1586473054bf615dc426421393c8b45a795cac39f509",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2607.08849-learning-impact/student-prompt-use-classifier-excerpt.md",
+    "source": "https://arxiv.org/html/2607.08849v2#A2.SS6.SSSx1par.p4.1.1",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "9714a97f1fef16f667fd641b3a9b8d6e93265ecd99eee5115979f8987d008435",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2607.08849-learning-impact/writing-assessment-tasks-excerpt.md",
+    "source": "https://arxiv.org/html/2607.08849v2#A2.SS2\\par",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "acdc09536f96021c6f95cce995074323a4bbf4e4a082ba4e37d1240ae334328a",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2608.16907-personalized-python/meaningful-code-attempt-counter-excerpt.md",
+    "source": "https://arxiv.org/html/2608.16907v1#A2.F14",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "1a71686672ed3434e54975f0b4ef72256ec481680b269be98bf95ce3c86f3867",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2608.16907-personalized-python/paper.pdf",
+    "source": "https://arxiv.org/pdf/2608.16907v1",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None; original PDF bytes.",
+    "sha256": "783f7a5fea6da8e1845b4503e33e0a5154baf3e2831fac65cfa4a41f5da7552b",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2608.16907-personalized-python/prompt-assembly-context-excerpt.md",
+    "source": "https://arxiv.org/html/2608.16907v1#A1.SS2",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "3d2a62d0c5d18f05f7318dee480d2dd6b686d60288599ec15c56c7f7f8c41e8e",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2608.16907-personalized-python/python-tutor-base-system-excerpt.md",
+    "source": "https://arxiv.org/html/2608.16907v1#A1.F12",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "ad1735444a61f9a9c511905b4637649dc60a7bcbcdc7a29591ea88f1265b6ceb",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2608.16907-personalized-python/rag-problem-generator-system-excerpt.md",
+    "source": "https://arxiv.org/html/2608.16907v1#A1.F11",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "e5f77e7e1308c5b4711ccb5797eca2e7fe5877f9050a9e35bc7d7816a1aec6c5",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2609.23958-voice-tutors/grading-council-and-solo-rubric-excerpt.md",
+    "source": "https://arxiv.org/html/2609.23958v1#Pt0.A3",
+    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "38e7bb7a2a9e9b06a708a155266c45cad6424db73d519efdd476f8d6365eaf24",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2609.23958-voice-tutors/paper.pdf",
+    "source": "https://arxiv.org/pdf/2609.23958v1",
+    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "changes": "None; original PDF bytes.",
+    "sha256": "f7fdedd5afb3d28dc9ba9df136db8d665d6dcf8d4ec18503118d7884b19157cc",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2609.23958-voice-tutors/tutor-system-abridged-excerpt.md",
+    "source": "https://arxiv.org/html/2609.23958v1#Pt0.A2",
+    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "changes": "Original published section(s) excerpted; HTML layout converted to Markdown/text; provenance header added. Wording not rewritten.",
+    "sha256": "f850e11d0d4e6b3a55b59f48c0a64c3fcd4353ee0ed999b8b11a40adc78a06e3",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2609.28470-studentbench/LICENSE-CC-BY-4.0.txt",
+    "source": "https://huggingface.co/datasets/handshake-ai-research/studentbench/resolve/304c8d63c726e72b60510bba3a44454fc0726721/LICENSE",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None; original source file copied byte-for-byte.",
+    "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2609.28470-studentbench/prompts/gre.quant.plan.lean.v3.txt",
+    "source": "https://huggingface.co/datasets/handshake-ai-research/studentbench/resolve/304c8d63c726e72b60510bba3a44454fc0726721/5_prompts/gre.quant.plan.lean.v3.txt",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None; original source file copied byte-for-byte.",
+    "sha256": "4a0440a17a62b0b28a32f5ceaed3622476aa02adcaf124d074cae2eb5f34886b",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2609.28470-studentbench/prompts/gre.quant.plan.max.v3.txt",
+    "source": "https://huggingface.co/datasets/handshake-ai-research/studentbench/resolve/304c8d63c726e72b60510bba3a44454fc0726721/5_prompts/gre.quant.plan.max.v3.txt",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None; original source file copied byte-for-byte.",
+    "sha256": "2efb0968037c5f2c5244caa83642144d1d1b15bf38a56062f0bf29529396cacd",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2609.28470-studentbench/prompts/gre.quant.plan.mid.v3.txt",
+    "source": "https://huggingface.co/datasets/handshake-ai-research/studentbench/resolve/304c8d63c726e72b60510bba3a44454fc0726721/5_prompts/gre.quant.plan.mid.v3.txt",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None; original source file copied byte-for-byte.",
+    "sha256": "8256d6f5652ee618efcd8399b30d45bf8946d9412b2e40fcb35fbfb71f1e597d",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2609.28470-studentbench/prompts/gre.quant.tutor.lean.v3.txt",
+    "source": "https://huggingface.co/datasets/handshake-ai-research/studentbench/resolve/304c8d63c726e72b60510bba3a44454fc0726721/5_prompts/gre.quant.tutor.lean.v3.txt",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None; original source file copied byte-for-byte.",
+    "sha256": "88dd2814729f90bbfe9501b2920d3f2cf4e93b510db12d9a69fa23375791a322",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2609.28470-studentbench/prompts/gre.quant.tutor.max.v3.txt",
+    "source": "https://huggingface.co/datasets/handshake-ai-research/studentbench/resolve/304c8d63c726e72b60510bba3a44454fc0726721/5_prompts/gre.quant.tutor.max.v3.txt",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None; original source file copied byte-for-byte.",
+    "sha256": "49f463f9f13a17c55b931cab91d9f3efdab19af5615aaeb6da3ae2869884a610",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2609.28470-studentbench/prompts/gre.quant.tutor.mid.v3.txt",
+    "source": "https://huggingface.co/datasets/handshake-ai-research/studentbench/resolve/304c8d63c726e72b60510bba3a44454fc0726721/5_prompts/gre.quant.tutor.mid.v3.txt",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None; original source file copied byte-for-byte.",
+    "sha256": "7c097d94c3a467e78e45eabc7b3d5a3d4e856b6de48e3ddb653825029496263b",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2609.28470-studentbench/prompts/gre.verbal.plan.lean.v2.txt",
+    "source": "https://huggingface.co/datasets/handshake-ai-research/studentbench/resolve/304c8d63c726e72b60510bba3a44454fc0726721/5_prompts/gre.verbal.plan.lean.v2.txt",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None; original source file copied byte-for-byte.",
+    "sha256": "ab88b4c5cd7f8d01836e131296b2c3571268dbf71e2cd6798878977d3e416183",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2609.28470-studentbench/prompts/gre.verbal.tutor.lean.v2.txt",
+    "source": "https://huggingface.co/datasets/handshake-ai-research/studentbench/resolve/304c8d63c726e72b60510bba3a44454fc0726721/5_prompts/gre.verbal.tutor.lean.v2.txt",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None; original source file copied byte-for-byte.",
+    "sha256": "16e7afba22ba9b5337e73f215bc9f6d45581960a289fe148d82434e3c58709d2",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2609.28470-studentbench/rubrics/gre_quant/rating_scales.csv",
+    "source": "https://huggingface.co/datasets/handshake-ai-research/studentbench/resolve/304c8d63c726e72b60510bba3a44454fc0726721/2_human_ai_vs_ai_lesson_plan_rubric_grading_data/gre_quant/rating_scales.csv",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None; original dataset CSV copied byte-for-byte, including CRLF.",
+    "sha256": "cd32fd9eea788859754e976a95e05712e45a8e5e2c9499bb4537f8451d878e16",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2609.28470-studentbench/rubrics/gre_quant/rubric_questions.csv",
+    "source": "https://huggingface.co/datasets/handshake-ai-research/studentbench/resolve/304c8d63c726e72b60510bba3a44454fc0726721/2_human_ai_vs_ai_lesson_plan_rubric_grading_data/gre_quant/rubric_questions.csv",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None; original dataset CSV copied byte-for-byte, including CRLF.",
+    "sha256": "531b10f378e2a5d11e7d40370c8648068f5ffc4b4600132eb248ee9ffca626d4",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2609.28470-studentbench/rubrics/gre_verbal/rating_scales.csv",
+    "source": "https://huggingface.co/datasets/handshake-ai-research/studentbench/resolve/304c8d63c726e72b60510bba3a44454fc0726721/2_human_ai_vs_ai_lesson_plan_rubric_grading_data/gre_verbal/rating_scales.csv",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None; original dataset CSV copied byte-for-byte, including CRLF.",
+    "sha256": "cd32fd9eea788859754e976a95e05712e45a8e5e2c9499bb4537f8451d878e16",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2609.28470-studentbench/rubrics/gre_verbal/rubric_questions.csv",
+    "source": "https://huggingface.co/datasets/handshake-ai-research/studentbench/resolve/304c8d63c726e72b60510bba3a44454fc0726721/2_human_ai_vs_ai_lesson_plan_rubric_grading_data/gre_verbal/rubric_questions.csv",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None; original dataset CSV copied byte-for-byte, including CRLF.",
+    "sha256": "0859925542ef42ed6e0a73ee76b25f899623bc5f4055f8de08f8ffc2f912a5d0",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "education-learning/2609.28470-studentbench/source-prompt-overview.md",
+    "source": "https://huggingface.co/datasets/handshake-ai-research/studentbench/resolve/304c8d63c726e72b60510bba3a44454fc0726721/5_prompts/README.md",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "None; original source file copied byte-for-byte.",
+    "sha256": "0202f1a2910c579891bc3f173340cf402935c7adebc6f531ac857dd6e617c104",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "human-ai-cowriting/2604.03529-incentives/paper.pdf",
+    "source": "https://arxiv.org/pdf/2604.03529v2",
+    "license": "CC BY 4.0",
+    "changes": "Unmodified PDF",
+    "accessed": "2026-11-13",
+    "sha256": "d0f26247776a3f2168ff4554476d3fd8e1a394ef534cada92f04c4cde117a888"
+  },
+  {
+    "path": "human-ai-cowriting/2604.03529-incentives/prompts/study1-examples.md",
+    "source": "https://huggingface.co/datasets/nathanaeljo/ai-cocreation-incentives/blob/475a751e12ca548f51ad631673e1845330ad3c53/study1/processed/ai_requests.csv",
+    "license": "CC BY 4.0",
+    "changes": "First five nonempty participant rows extracted; wording retained; trailing whitespace removed",
+    "accessed": "2026-11-13",
+    "sha256": "5d40c5b9b9f94f1e90dc9aeaf82d8f6ff5da6b51ab4d9328058dbdc423a3caf6"
+  },
+  {
+    "path": "human-ai-cowriting/2604.03529-incentives/prompts/study1-quality-judge.en.txt",
+    "source": "https://arxiv.org/html/2604.03529v2#A2.SS2.SSSx1",
+    "license": "CC BY 4.0",
+    "changes": "HTML formatting removed; wording retained",
+    "accessed": "2026-11-13",
+    "sha256": "a235b34b2afadfa04f04397294d688836788efd3c501dba101b3bc3f3fdef271"
+  },
+  {
+    "path": "human-ai-cowriting/2604.03529-incentives/prompts/study1-user-prompts.csv",
+    "source": "https://huggingface.co/datasets/nathanaeljo/ai-cocreation-incentives/blob/475a751e12ca548f51ad631673e1845330ad3c53/study1/processed/ai_requests.csv",
+    "license": "CC BY 4.0",
+    "changes": "Unmodified public CSV; participant IDs are upstream pseudonymous IDs",
+    "accessed": "2026-11-13",
+    "sha256": "8d46d4f8c2a63809f92efa21563fbd80e58536b695cfa2bd87bf928f07fb92e1"
+  },
+  {
+    "path": "human-ai-cowriting/2604.03529-incentives/prompts/study2-examples.md",
+    "source": "https://huggingface.co/datasets/nathanaeljo/ai-cocreation-incentives/blob/475a751e12ca548f51ad631673e1845330ad3c53/study2/processed/ai_requests.csv",
+    "license": "CC BY 4.0",
+    "changes": "First five nonempty participant rows extracted; wording retained; trailing whitespace removed",
+    "accessed": "2026-11-13",
+    "sha256": "a858343c43b289062754b6a83986233c197ab860460c344dfc552b6464d767c2"
+  },
+  {
+    "path": "human-ai-cowriting/2604.03529-incentives/prompts/study2-quality-judge.en.txt",
+    "source": "https://arxiv.org/html/2604.03529v2#A2.SS2.SSSx2",
+    "license": "CC BY 4.0",
+    "changes": "HTML formatting removed; wording retained",
+    "accessed": "2026-11-13",
+    "sha256": "943979943b6fce593796315986649416a66ae57c1bbceafd2773159c74e2c789"
+  },
+  {
+    "path": "human-ai-cowriting/2604.03529-incentives/prompts/study2-user-prompts.csv",
+    "source": "https://huggingface.co/datasets/nathanaeljo/ai-cocreation-incentives/blob/475a751e12ca548f51ad631673e1845330ad3c53/study2/processed/ai_requests.csv",
+    "license": "CC BY 4.0",
+    "changes": "Unmodified public CSV; participant IDs are upstream pseudonymous IDs",
+    "accessed": "2026-11-13",
+    "sha256": "bf572aed5a1cd5aaf7619b646c0d2164b4e53c70dc750e15ea34685297727085"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2601.14478-qualitative-health-research/paper.pdf",
+    "source": "https://arxiv.org/pdf/2601.14478v1",
+    "license": "CC BY 4.0",
+    "changes": "Unmodified PDF",
+    "sha256": "a9d8604d47cccbe9bfbf006e31e1a4ef939410248eba345b9ef722a0415b4a01",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2602.21136-sparkme/paper.pdf",
+    "source": "https://arxiv.org/pdf/2602.21136v1",
+    "license": "CC BY 4.0",
+    "changes": "Unmodified PDF",
+    "sha256": "bd273bb4a3badfe543cecd4da7e146a4ebb243c897be4ad218f0a6226b782ee6",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2602.21136-sparkme/prompts/01-subtopic-coverage.en.txt",
+    "source": "https://arxiv.org/html/2602.21136v1#A2.p2",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "93e20f0102f48fc4f4ddbb5e110645abe39b1973a8b657052a9b43b610c0983b",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2602.21136-sparkme/prompts/02-emergent-subtopic.en.txt",
+    "source": "https://arxiv.org/html/2602.21136v1#A2.p3",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "ee5e8b198fe2e65d3e93b10777774cb04ba6ab412a9b14bd3b2d2e4594b61c1c",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2602.21136-sparkme/prompts/03-simulated-interviewee.en.txt",
+    "source": "https://arxiv.org/html/2602.21136v1#A1.SS5.p2",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "919806f685a213b6c1bbc2ce86a57e3f5f852b61e703c8131558880b76f0f811",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2602.21136-sparkme/prompts/04-coverage-evaluator.en.txt",
+    "source": "https://arxiv.org/html/2602.21136v1#A1.SS6.p2",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "0e11ce0824fb258faa2a808b60114f4adab362893533b7a8f14f206676ad306d",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2602.21136-sparkme/prompts/05-emergence-evaluator.en.txt",
+    "source": "https://arxiv.org/html/2602.21136v1#A1.SS6.p3",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "6e43a4f5cf15c5ac2025c8c5d54b5f15558c47c39d66de2198f955742808e0b6",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2602.21136-sparkme/prompts/06-interview-flow-evaluator.en.txt",
+    "source": "https://arxiv.org/html/2602.21136v1#A1.SS8.SSS1.p1",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "8b9999c85ab85f07ab476db1c1a0b13c9d84f30f377223cad45fdecd81a29685",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2609.29143-market-research-twins/paper.pdf",
+    "source": "https://arxiv.org/pdf/2609.29143v1",
+    "license": "CC BY 4.0",
+    "changes": "Unmodified PDF",
+    "sha256": "2204fd45a12083f2e20e6d74830d14f9496a18ecf9d783cd0c038f196a990186",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2609.29143-market-research-twins/prompts/01-breadth-depth-coder.en.txt",
+    "source": "https://arxiv.org/html/2609.29143v1#A3.SSx1.p2.1",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "32324b3f205e1394346ee097715d012e6253f564e85b2d0b1d074060ba69c1aa",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2609.29143-market-research-twins/prompts/02-coding-adjudicator.en.txt",
+    "source": "https://arxiv.org/html/2609.29143v1#A3.SSx1.p4.1",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "0a2dedfeb8932aa32351b081072345e0f0bcbdaa697f63647fb9409ac0451621",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2609.29143-market-research-twins/prompts/03-customer-needs.en.txt",
+    "source": "https://arxiv.org/html/2609.29143v1#A4.p2.1",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "4b4cf8440ac5674d9b75d1d5ce3aef77b680e41a5a3291abe0f117a438c822e7",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2609.29143-market-research-twins/prompts/04-interview-quality-judge.en.txt",
+    "source": "https://arxiv.org/html/2609.29143v1#A8.p2.1",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "6bcfb5021d8936b4d69f2bf720588920aa7202b07bedec6d7a08d5764ce86f00",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2609.29143-market-research-twins/prompts/05-digital-twin-system.en.txt",
+    "source": "https://arxiv.org/html/2609.29143v1#A10.SSx1.p2.1",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "cddca632b2c835a6a20930770abe923670f6449f986d1a317e9a22cb2c117e0d",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2609.29143-market-research-twins/prompts/06-benefit-claims.en.txt",
+    "source": "https://arxiv.org/html/2609.29143v1#A10.SSx2.p1.1",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "29cdfe14c8cc850fa48190c9b0353f15c9df8c98d128a9a788debe0ff575ac8e",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2609.29143-market-research-twins/prompts/07-vinyl-claims.en.txt",
+    "source": "https://arxiv.org/html/2609.29143v1#A10.SSx3.p1.1",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "59976f3c240945fd8191e3181b43fb53e1e850a4cf98a469895db3f9db4f340f",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2609.29143-market-research-twins/prompts/08-mailer.en.txt",
+    "source": "https://arxiv.org/html/2609.29143v1#A10.SSx4.p1.2",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "c6f8ef362a505c08939b94f5ffdce693da9ef23077f430300a817f7fcb47c945",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2609.29143-market-research-twins/prompts/09-commercial.en.txt",
+    "source": "https://arxiv.org/html/2609.29143v1#A10.SSx5.p1.2",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "0c38dd493c1ba3b0f28e6a2d51f0479823a8319a24a9407a49d934d15310aa9a",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2609.29143-market-research-twins/prompts/10-calibration-ratings.en.txt",
+    "source": "https://arxiv.org/html/2609.29143v1#A10.SSx6.p2.2",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "0f96e44e3991b5213ce721a9d3568eb09fc6ae8c438ec00364ab28932deb3a08",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2609.29143-market-research-twins/prompts/11-calibration-ratings-reasons.en.txt",
+    "source": "https://arxiv.org/html/2609.29143v1#A10.SSx6.p3.2",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "965af4b9e23feee27a3ec2ddb6e5dcd54d9262b6fbc7ee2dab4722e8a9a7398e",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2609.29143-market-research-twins/prompts/12-calibration-ranking.en.txt",
+    "source": "https://arxiv.org/html/2609.29143v1#A10.SSx6.p4.2",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "2d2d0b63ee176001034faa5c4d6e2d00e6b82a5b7172fce0ba6a5a54a44c9d61",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2609.29143-market-research-twins/prompts/13-calibration-ranking-reasons.en.txt",
+    "source": "https://arxiv.org/html/2609.29143v1#A10.SSx6.p5.2",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "4c5cdfc61100c5c08eda22a6adc8635c3bd557561dc622b820aa6ffad6581839",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2609.29143-market-research-twins/prompts/14-reasoning-only.en.txt",
+    "source": "https://arxiv.org/html/2609.29143v1#A10.SSx6.p6.2",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "ecb2881c99d8d500fabd975ecf9e8452b63c010db082157a1c00228852001683",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2609.29143-market-research-twins/prompts/15-reasoning-fidelity.en.txt",
+    "source": "https://arxiv.org/html/2609.29143v1#A14.SSx1.p1.1",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "41e82c82db00165e6ed6a37a55f8fdfec342717c7674f110ec1d881b5b17cfbf",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2609.29143-market-research-twins/prompts/16-response-style.en.txt",
+    "source": "https://arxiv.org/html/2609.29143v1#A14.SSx2.p1.1",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "4f94789dfde32f1e53db16552093dbdd65ae4a81b511d7ee06a8fb5d2bdee4ab",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2609.29143-market-research-twins/prompts/17-response-focus.en.txt",
+    "source": "https://arxiv.org/html/2609.29143v1#A14.SSx3.p2.1",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "7d39dfeb887425d7fad2cd637aab1043f21cb66a687199c1fb2f7b71afbd31ef",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2609.29143-market-research-twins/prompts/18-codebooks-context.en.txt",
+    "source": "https://arxiv.org/html/2609.29143v1#A3.tab2",
+    "license": "CC BY 4.0",
+    "changes": "HTML layout removed; wording retained",
+    "sha256": "05969b823550530527e0d10e2f7ad0496c3e3bd7bbbbfa0a956bb9ee30b16ebf",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2610.23149-ai-led-interviews/paper.pdf",
+    "source": "https://arxiv.org/pdf/2610.23149v1",
+    "license": "CC BY 4.0",
+    "changes": "Unmodified PDF",
+    "sha256": "62191c5a1568cb42d945951742d2c0880a49b3522faa83585833c7c3efe79299",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2610.23149-ai-led-interviews/prompts/LICENSE-AGPL-3.0.txt",
+    "source": "https://github.com/ainterviewer/can-ai-interview/blob/50f09e5eb92e47ad0d9d512ecc192f1a4a162781/LICENSE",
+    "license": "AGPL-3.0",
+    "changes": "Unmodified license",
+    "sha256": "8486a10c4393cee1c25392769ddd3b2d6c242d6ec7928e1414efff7dfb2f07ef",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2610.23149-ai-led-interviews/prompts/classification_agent_classification_prompt.jinja",
+    "source": "https://github.com/ainterviewer/can-ai-interview/blob/50f09e5eb92e47ad0d9d512ecc192f1a4a162781/prompts/classification_agent_classification_prompt.jinja",
+    "license": "AGPL-3.0",
+    "changes": "Unmodified upstream file",
+    "sha256": "009faf326d76bdecb254fb2d29f1772bd3f554527587b212fe3f93f99dff5e4c",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2610.23149-ai-led-interviews/prompts/classification_agent_system_prompt.jinja",
+    "source": "https://github.com/ainterviewer/can-ai-interview/blob/50f09e5eb92e47ad0d9d512ecc192f1a4a162781/prompts/classification_agent_system_prompt.jinja",
+    "license": "AGPL-3.0",
+    "changes": "Unmodified upstream file",
+    "sha256": "5732b7f6f79e9e799ddf0576aa0b3a67b036dae67043506742e6ebcb556149a4",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2610.23149-ai-led-interviews/prompts/interview-guide.json",
+    "source": "https://github.com/ainterviewer/can-ai-interview/blob/50f09e5eb92e47ad0d9d512ecc192f1a4a162781/data/interview_guide.json",
+    "license": "AGPL-3.0",
+    "changes": "Unmodified upstream file",
+    "sha256": "8458a583437e4ae9ca031c0f689de3c10fa27cf4357fbd8f076ed9f71ec6ac9d",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2610.23149-ai-led-interviews/prompts/probing_agent_probing_prompt.jinja",
+    "source": "https://github.com/ainterviewer/can-ai-interview/blob/50f09e5eb92e47ad0d9d512ecc192f1a4a162781/prompts/probing_agent_probing_prompt.jinja",
+    "license": "AGPL-3.0",
+    "changes": "Unmodified upstream file",
+    "sha256": "422374499a6a2a877514622d4ba674b901f666c5a5ab61ef7fa4ecd3f35a8e8d",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2610.23149-ai-led-interviews/prompts/probing_agent_system_prompt.jinja",
+    "source": "https://github.com/ainterviewer/can-ai-interview/blob/50f09e5eb92e47ad0d9d512ecc192f1a4a162781/prompts/probing_agent_system_prompt.jinja",
+    "license": "AGPL-3.0",
+    "changes": "Unmodified upstream file",
+    "sha256": "29a6bba10809261781352703892b025997e24e4953863a4f2d2f07cedefaa819",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "interviews-qualitative-analysis/2610.23149-ai-led-interviews/prompts/reformulation_prompts.jinja",
+    "source": "https://github.com/ainterviewer/can-ai-interview/blob/50f09e5eb92e47ad0d9d512ecc192f1a4a162781/prompts/reformulation_prompts.jinja",
+    "license": "AGPL-3.0",
+    "changes": "Unmodified upstream file",
+    "sha256": "ae3b9ffeeb3a3b942fd4f79dd08fef1e840903233880d5157ed230d50745cbf9",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "medical-evaluation/2606.24510-radar/upstream/LICENSE",
+    "source": "https://github.com/sczzz3/RaDaR/blob/f3334c76e90340e4c78062401edf71ccfaee3f68/LICENSE",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "50e6751797c50dedd75ef1b8a0d9e42f5f8472e9fbce91f34718e9f97b0c780a",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "medical-evaluation/2606.24510-radar/upstream/sample/cot_modify.txt",
+    "source": "https://github.com/sczzz3/RaDaR/blob/f3334c76e90340e4c78062401edf71ccfaee3f68/sample/cot_modify.txt",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "af17034e42b69fda081027eebe8714f6de9097f9a59a7855671e4dc01f15842f",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "medical-evaluation/2606.24510-radar/upstream/sample/prompt_case_modify.txt",
+    "source": "https://github.com/sczzz3/RaDaR/blob/f3334c76e90340e4c78062401edf71ccfaee3f68/sample/prompt_case_modify.txt",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "45df60161b11a54e62bd9aab3f320fbda359e942743c44a8839a00b99a01d791",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "medical-evaluation/2606.24510-radar/upstream/sample/prompt_case_syn.txt",
+    "source": "https://github.com/sczzz3/RaDaR/blob/f3334c76e90340e4c78062401edf71ccfaee3f68/sample/prompt_case_syn.txt",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "afb601c83adb98ad8565994849ce70e2a30601298b26dce610dac0e22e33e549",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "medical-evaluation/2609.12822-preceptron/prompts/bi_triage.md",
+    "source": "https://github.com/2v/PrecepTron/blob/4cb33ff861bad729122ce12db7d927bc27ab1b8a/preceptron/prompts.py",
+    "license": "MIT",
+    "changes": "以 Python AST 靜態解碼字串並配對 TASK_SYSTEM_PROMPTS/TASK_USER_PROMPTS；未執行來源程式或改寫文字。",
+    "sha256": "d077b9b00e49bf732057f9cc9865aeeb4e84787f9f9f1c110d5a05d3892672c7",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "medical-evaluation/2609.12822-preceptron/prompts/cpc_bond.md",
+    "source": "https://github.com/2v/PrecepTron/blob/4cb33ff861bad729122ce12db7d927bc27ab1b8a/preceptron/prompts.py",
+    "license": "MIT",
+    "changes": "以 Python AST 靜態解碼字串並配對 TASK_SYSTEM_PROMPTS/TASK_USER_PROMPTS；未執行來源程式或改寫文字。",
+    "sha256": "782bbbb241d681862109370aae980da3ac50181acbab7633f1c158ad55b69f11",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "medical-evaluation/2609.12822-preceptron/prompts/cpc_management.md",
+    "source": "https://github.com/2v/PrecepTron/blob/4cb33ff861bad729122ce12db7d927bc27ab1b8a/preceptron/prompts.py",
+    "license": "MIT",
+    "changes": "以 Python AST 靜態解碼字串並配對 TASK_SYSTEM_PROMPTS/TASK_USER_PROMPTS；未執行來源程式或改寫文字。",
+    "sha256": "0f995e3bd8b01f85f37e5a697a671a1454c49dd162b741801b80551f80ecdf1d",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "medical-evaluation/2609.12822-preceptron/prompts/diagnostic_reasoning.md",
+    "source": "https://github.com/2v/PrecepTron/blob/4cb33ff861bad729122ce12db7d927bc27ab1b8a/preceptron/prompts.py",
+    "license": "MIT",
+    "changes": "以 Python AST 靜態解碼字串並配對 TASK_SYSTEM_PROMPTS/TASK_USER_PROMPTS；未執行來源程式或改寫文字。",
+    "sha256": "0e6a9f4aa5616e9a8bb1601d4fb994b6fa0911464c87e37c7462ca329933eea7",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "medical-evaluation/2609.12822-preceptron/prompts/management_reasoning.md",
+    "source": "https://github.com/2v/PrecepTron/blob/4cb33ff861bad729122ce12db7d927bc27ab1b8a/preceptron/prompts.py",
+    "license": "MIT",
+    "changes": "以 Python AST 靜態解碼字串並配對 TASK_SYSTEM_PROMPTS/TASK_USER_PROMPTS；未執行來源程式或改寫文字。",
+    "sha256": "d7337e471342d5e6abbf08e40be4af2dae4254982208db9e86d1acbdf933f3ee",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "medical-evaluation/2609.12822-preceptron/prompts/r_idea.md",
+    "source": "https://github.com/2v/PrecepTron/blob/4cb33ff861bad729122ce12db7d927bc27ab1b8a/preceptron/prompts.py",
+    "license": "MIT",
+    "changes": "以 Python AST 靜態解碼字串並配對 TASK_SYSTEM_PROMPTS/TASK_USER_PROMPTS；未執行來源程式或改寫文字。",
+    "sha256": "588dbf60f92d34ffcddd65238146fdfe5b18d65874d549b909ef08db96ebab3e",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "medical-evaluation/2609.12822-preceptron/upstream/LICENSE.md",
+    "source": "https://github.com/2v/PrecepTron/blob/4cb33ff861bad729122ce12db7d927bc27ab1b8a/LICENSE.md",
+    "license": "MIT",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "da4297709695e32183dd4f38effd49dd34228c6af761e9c70deaa0974b7cd1b7",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "medical-evaluation/2609.12822-preceptron/upstream/preceptron/prompts.py",
+    "source": "https://github.com/2v/PrecepTron/blob/4cb33ff861bad729122ce12db7d927bc27ab1b8a/preceptron/prompts.py",
+    "license": "MIT",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "cebb992eeed56fe52b6efa2a3dd117b12affff5d44583f0ffed70f2e9ff0d464",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "medical-evaluation/2609.12822-preceptron/upstream/preceptron/rubrics.py",
+    "source": "https://github.com/2v/PrecepTron/blob/4cb33ff861bad729122ce12db7d927bc27ab1b8a/preceptron/rubrics.py",
+    "license": "MIT",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "b1e0baf4670dd0a6589b154cfcc5918b0d947c7d0f77d08290b6619c098a28a6",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "medical-evaluation/2609.12822-preceptron/upstream/rubrics/bond.json",
+    "source": "https://github.com/2v/PrecepTron/blob/4cb33ff861bad729122ce12db7d927bc27ab1b8a/rubrics/bond.json",
+    "license": "MIT",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "c751c738ed7ea7afe528b8c6b19bdd605958491735302bb8f4f2ef9d584874cc",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "medical-evaluation/2609.12822-preceptron/upstream/rubrics/diagnostic.json",
+    "source": "https://github.com/2v/PrecepTron/blob/4cb33ff861bad729122ce12db7d927bc27ab1b8a/rubrics/diagnostic.json",
+    "license": "MIT",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "ad1be9641aa2e8d13d7a4b75564a910ec5f82783d21a56d0037c83ec4bda55c4",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "medical-evaluation/2609.12822-preceptron/upstream/rubrics/management.json",
+    "source": "https://github.com/2v/PrecepTron/blob/4cb33ff861bad729122ce12db7d927bc27ab1b8a/rubrics/management.json",
+    "license": "MIT",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "491180bb47798e5765bdd98d819894d959836f2d5387cf1141f2ef9f06d242fa",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "medical-evaluation/2609.12822-preceptron/upstream/rubrics/r_idea.json",
+    "source": "https://github.com/2v/PrecepTron/blob/4cb33ff861bad729122ce12db7d927bc27ab1b8a/rubrics/r_idea.json",
+    "license": "MIT",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "9d1e999d473e334e89a2555496b1e255c379029b4249b4e28a9046392c8bc3cb",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "medical-evaluation/2609.12822-preceptron/upstream/rubrics/testing_plan.json",
+    "source": "https://github.com/2v/PrecepTron/blob/4cb33ff861bad729122ce12db7d927bc27ab1b8a/rubrics/testing_plan.json",
+    "license": "MIT",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "1d0b45b71b32081bef8f040bf1cc9045bad5aaa9b451812ca0139454e3e753fc",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2603.08127-evoscientist/paper-prompts/experiment-strategy-evolution.md",
+    "source": "https://arxiv.org/html/2603.08127v2#A4",
+    "license": "CC BY 4.0",
+    "changes": "用 LiteParse 擷取 Figure 12 文字；移除頁首與圖說，保留原文與 PDF 換行。",
+    "sha256": "d499c79630630e1ae2b4c885413614cb047ed8ece5eb31b2918c31066cbedfc0",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2603.08127-evoscientist/paper-prompts/human-evaluation-instructions.md",
+    "source": "https://arxiv.org/html/2603.08127v2#A3",
+    "license": "CC BY 4.0",
+    "changes": "用 LiteParse 擷取 Figure 9 文字；移除頁首與圖說，保留原文與 PDF 換行。",
+    "sha256": "090da6e56f48e9ed771164da4247461335188c8ba51a5407d0d3b16e12978d24",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2603.08127-evoscientist/paper-prompts/idea-direction-evolution.md",
+    "source": "https://arxiv.org/html/2603.08127v2#A4",
+    "license": "CC BY 4.0",
+    "changes": "用 LiteParse 擷取 Figure 10 文字；移除頁首與圖說，保留原文與 PDF 換行。",
+    "sha256": "830ee6d6f85f715023dbf815f6980882a3787884e42180a195dc57853e99df29",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2603.08127-evoscientist/paper-prompts/idea-validation-evolution.md",
+    "source": "https://arxiv.org/html/2603.08127v2#A4",
+    "license": "CC BY 4.0",
+    "changes": "用 LiteParse 擷取 Figure 11 文字；移除頁首與圖說，保留原文與 PDF 換行。",
+    "sha256": "07c0ad7711bf96ec7b9e966089c7fdd1a4afed3af976ea4e251afd3acfc1de97",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2603.08127-evoscientist/paper-prompts/pairwise-idea-evaluation.md",
+    "source": "https://arxiv.org/html/2603.08127v2#A3",
+    "license": "CC BY 4.0",
+    "changes": "用 LiteParse 擷取 PDF 文字，合併 Figures 4–8，移除頁首與圖說；保留原文與 PDF 換行。",
+    "sha256": "76a1e17c00710b69fc256719a1ffd2afd9a927cf9fc5affbc4d8e5e18b5bd198",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2603.08127-evoscientist/paper.pdf",
+    "source": "https://arxiv.org/pdf/2603.08127v2",
+    "license": "CC BY 4.0",
+    "changes": "原始 PDF，未修改。",
+    "sha256": "4f3bb021aad6510861ab7a65cb9db1a2e16bcd50295695bb60d28293306568d3",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2603.08127-evoscientist/prompts/default-static-system.md",
+    "source": "https://github.com/EvoScientist/EvoScientist/blob/8a748253a01d088d89dd6df4da5d2573296e3310/EvoScientist/prompts.py",
+    "license": "Apache-2.0",
+    "changes": "以 AST 靜態讀取常數及 intake bullets，依原 get_system_prompt 順序與預設參數組合；沒有執行上游函式。僅加入來源標頭。",
+    "sha256": "fbc92d8708ab36d4d3acc2d58291e5f5d9371d4421525fbcade7a4b869c51bfd",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2603.08127-evoscientist/upstream/EvoScientist/prompts.py",
+    "source": "https://github.com/EvoScientist/EvoScientist/blob/8a748253a01d088d89dd6df4da5d2573296e3310/EvoScientist/prompts.py",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "6b2f3bf2ca2660dacfda6250e498c1ddea20842d916d4ebffbc22b880ca76edd",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2603.08127-evoscientist/upstream/EvoScientist/subagents/code.yaml",
+    "source": "https://github.com/EvoScientist/EvoScientist/blob/8a748253a01d088d89dd6df4da5d2573296e3310/EvoScientist/subagents/code.yaml",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "1c48d5f9fce2cadab545e49c4752e8dd6c10f68b48537a69b56445ce00b5aa2b",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2603.08127-evoscientist/upstream/EvoScientist/subagents/data_analysis.yaml",
+    "source": "https://github.com/EvoScientist/EvoScientist/blob/8a748253a01d088d89dd6df4da5d2573296e3310/EvoScientist/subagents/data_analysis.yaml",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "75624b526f7aca9efd4d4505f2a9d4917edaa6662b193f7b238ca0ce8d62a338",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2603.08127-evoscientist/upstream/EvoScientist/subagents/debug.yaml",
+    "source": "https://github.com/EvoScientist/EvoScientist/blob/8a748253a01d088d89dd6df4da5d2573296e3310/EvoScientist/subagents/debug.yaml",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "7d25004f8258d147a8d409ae5d039b2b68675136ee80eb5cf629dc328f1a75d0",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2603.08127-evoscientist/upstream/EvoScientist/subagents/planner.yaml",
+    "source": "https://github.com/EvoScientist/EvoScientist/blob/8a748253a01d088d89dd6df4da5d2573296e3310/EvoScientist/subagents/planner.yaml",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "146e2837f1b9800c7f839fbb8d6426f9feb27dc9a65b0d185e98fa076f044fbb",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2603.08127-evoscientist/upstream/EvoScientist/subagents/research.yaml",
+    "source": "https://github.com/EvoScientist/EvoScientist/blob/8a748253a01d088d89dd6df4da5d2573296e3310/EvoScientist/subagents/research.yaml",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "4cf8b9b7d8c16cbe75872957e53d2699ea027d8e09eb24dcc63196c9481a380a",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2603.08127-evoscientist/upstream/EvoScientist/subagents/scheduler.yaml",
+    "source": "https://github.com/EvoScientist/EvoScientist/blob/8a748253a01d088d89dd6df4da5d2573296e3310/EvoScientist/subagents/scheduler.yaml",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "400266814c02738e23a7d27d59e6707ef0d503204e086e54cff55df0b5edf017",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2603.08127-evoscientist/upstream/EvoScientist/subagents/writing.yaml",
+    "source": "https://github.com/EvoScientist/EvoScientist/blob/8a748253a01d088d89dd6df4da5d2573296e3310/EvoScientist/subagents/writing.yaml",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "7a61c1df22b758fd05dbd706cf501aea2f09dee392773e34f6d2d7b2cabe3a39",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2603.08127-evoscientist/upstream/LICENSE",
+    "source": "https://github.com/EvoScientist/EvoScientist/blob/8a748253a01d088d89dd6df4da5d2573296e3310/LICENSE",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "eae7b5b1f14c471f27d7f3d8cc5d26b154966910b761241fab8ad11fc6f637a5",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2605.06772-scalar/prompts/actor-initial.md",
+    "source": "https://github.com/xand-stapleton/ai_agents/blob/8bae8219959d4e8ae1085694e5629a423bcf64ac/blocks/actor.py",
+    "license": "GPL-2.0",
+    "changes": "以 Python AST 靜態讀取字串與 f-string，未執行來源程式；將變數插值保留為 {name}。Critic 的錯誤分類依原 ERROR_TYPES 完整展開；其餘原文未改寫。",
+    "sha256": "b56b2a8cb60c18673dada78ad2085d7918cf268e7dce4fcc2c454f12992525bb",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2605.06772-scalar/prompts/actor-refinement-with-history.md",
+    "source": "https://github.com/xand-stapleton/ai_agents/blob/8bae8219959d4e8ae1085694e5629a423bcf64ac/blocks/actor.py",
+    "license": "GPL-2.0",
+    "changes": "以 Python AST 靜態讀取字串與 f-string，未執行來源程式；將變數插值保留為 {name}。Critic 的錯誤分類依原 ERROR_TYPES 完整展開；其餘原文未改寫。",
+    "sha256": "aeaa86830a29f149e47c76ada7d0a5abafe474e9712cf468286245710ece5d07",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2605.06772-scalar/prompts/actor-refinement-without-history.md",
+    "source": "https://github.com/xand-stapleton/ai_agents/blob/8bae8219959d4e8ae1085694e5629a423bcf64ac/blocks/actor.py",
+    "license": "GPL-2.0",
+    "changes": "以 Python AST 靜態讀取字串與 f-string，未執行來源程式；將變數插值保留為 {name}。Critic 的錯誤分類依原 ERROR_TYPES 完整展開；其餘原文未改寫。",
+    "sha256": "c6d895cb4d404155d23bdd3b6031aed2e6988fc2410f72188cd7fabc023889ed",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2605.06772-scalar/prompts/actor_characters-baseline.md",
+    "source": "https://github.com/xand-stapleton/ai_agents/blob/8bae8219959d4e8ae1085694e5629a423bcf64ac/blocks/characters.py",
+    "license": "GPL-2.0",
+    "changes": "以 Python AST 靜態解碼原始字串；僅加入來源標頭。",
+    "sha256": "645a424f53d62c3ff56d38be8c7052c9516a130b33b14207a784fa768a782e62",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2605.06772-scalar/prompts/actor_characters-careful.md",
+    "source": "https://github.com/xand-stapleton/ai_agents/blob/8bae8219959d4e8ae1085694e5629a423bcf64ac/blocks/characters.py",
+    "license": "GPL-2.0",
+    "changes": "以 Python AST 靜態解碼原始字串；僅加入來源標頭。",
+    "sha256": "bf7c21a1025ceb11b45219339273a860d3eac904f1aa8e74d21125f24bceabcd",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2605.06772-scalar/prompts/actor_characters-concise.md",
+    "source": "https://github.com/xand-stapleton/ai_agents/blob/8bae8219959d4e8ae1085694e5629a423bcf64ac/blocks/characters.py",
+    "license": "GPL-2.0",
+    "changes": "以 Python AST 靜態解碼原始字串；僅加入來源標頭。",
+    "sha256": "3e4544b7e14d5d67b17f9d706a8f52b69128cdee03e433dda91ddac29be0bec2",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2605.06772-scalar/prompts/actor_characters-confident.md",
+    "source": "https://github.com/xand-stapleton/ai_agents/blob/8bae8219959d4e8ae1085694e5629a423bcf64ac/blocks/characters.py",
+    "license": "GPL-2.0",
+    "changes": "以 Python AST 靜態解碼原始字串；僅加入來源標頭。",
+    "sha256": "acab560d3af6abbc0af84bcc2b568a8a8d8402310047628a2ad173ec525233e6",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2605.06772-scalar/prompts/critic-evaluation.md",
+    "source": "https://github.com/xand-stapleton/ai_agents/blob/8bae8219959d4e8ae1085694e5629a423bcf64ac/blocks/critic.py",
+    "license": "GPL-2.0",
+    "changes": "以 Python AST 靜態讀取字串與 f-string，未執行來源程式；將變數插值保留為 {name}。Critic 的錯誤分類依原 ERROR_TYPES 完整展開；其餘原文未改寫。",
+    "sha256": "019d9e5f2f4a804a1b353db831b96eabbb95476d21252c2f9ccc164d1df754a1",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2605.06772-scalar/prompts/critic_characters-adversarial.md",
+    "source": "https://github.com/xand-stapleton/ai_agents/blob/8bae8219959d4e8ae1085694e5629a423bcf64ac/blocks/characters.py",
+    "license": "GPL-2.0",
+    "changes": "以 Python AST 靜態解碼原始字串；僅加入來源標頭。",
+    "sha256": "ab84834019eba6976778fc265f834e35506a96ff6d561346e05e9db22feb53bc",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2605.06772-scalar/prompts/critic_characters-lenient.md",
+    "source": "https://github.com/xand-stapleton/ai_agents/blob/8bae8219959d4e8ae1085694e5629a423bcf64ac/blocks/characters.py",
+    "license": "GPL-2.0",
+    "changes": "以 Python AST 靜態解碼原始字串；僅加入來源標頭。",
+    "sha256": "03f3d97b4ec8139fa5034aec030d3de9533eb146c36156f0e3aa56be03bd7301",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2605.06772-scalar/prompts/critic_characters-pedagogical.md",
+    "source": "https://github.com/xand-stapleton/ai_agents/blob/8bae8219959d4e8ae1085694e5629a423bcf64ac/blocks/characters.py",
+    "license": "GPL-2.0",
+    "changes": "以 Python AST 靜態解碼原始字串；僅加入來源標頭。",
+    "sha256": "91cf9ce1dae5fe1b9b2099745aaf28daf06ba3ddb85ddc44e8748fd546e0244d",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2605.06772-scalar/prompts/critic_characters-strict.md",
+    "source": "https://github.com/xand-stapleton/ai_agents/blob/8bae8219959d4e8ae1085694e5629a423bcf64ac/blocks/characters.py",
+    "license": "GPL-2.0",
+    "changes": "以 Python AST 靜態解碼原始字串；僅加入來源標頭。",
+    "sha256": "075ff25dae7e5d3230076d7280cdac600e9861f306464fe74aea77d6016cd051",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2605.06772-scalar/prompts/judge-evaluation.md",
+    "source": "https://github.com/xand-stapleton/ai_agents/blob/8bae8219959d4e8ae1085694e5629a423bcf64ac/judges/llm.py",
+    "license": "GPL-2.0",
+    "changes": "以 Python AST 靜態讀取字串與 f-string，未執行來源程式；將變數插值保留為 {name}。Critic 的錯誤分類依原 ERROR_TYPES 完整展開；其餘原文未改寫。",
+    "sha256": "365f5e7e05c352d873ed9f26fea88aabc6bdb410a65e4d6ff7445f7d5dd6e940",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2605.06772-scalar/upstream/LICENSE",
+    "source": "https://github.com/xand-stapleton/ai_agents/blob/8bae8219959d4e8ae1085694e5629a423bcf64ac/LICENSE",
+    "license": "GPL-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2605.06772-scalar/upstream/blocks/actor.py",
+    "source": "https://github.com/xand-stapleton/ai_agents/blob/8bae8219959d4e8ae1085694e5629a423bcf64ac/blocks/actor.py",
+    "license": "GPL-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "ec8d1c6f3ba8b3fd1af6d4a8205fa505817534ce762f4afa0f7fd394d7f93c45",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2605.06772-scalar/upstream/blocks/characters.py",
+    "source": "https://github.com/xand-stapleton/ai_agents/blob/8bae8219959d4e8ae1085694e5629a423bcf64ac/blocks/characters.py",
+    "license": "GPL-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "a415abb8a1122dba61e10d72930113274f98d2fbe9b7911e765e71eb583bf09a",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2605.06772-scalar/upstream/blocks/critic.py",
+    "source": "https://github.com/xand-stapleton/ai_agents/blob/8bae8219959d4e8ae1085694e5629a423bcf64ac/blocks/critic.py",
+    "license": "GPL-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "3ed9dc1c591afeaab43b323fd3fa95b8f6cfd34ae6e9b1ef355ab3874e9e51de",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2605.06772-scalar/upstream/configs/20_problems.yaml",
+    "source": "https://github.com/xand-stapleton/ai_agents/blob/8bae8219959d4e8ae1085694e5629a423bcf64ac/configs/20_problems.yaml",
+    "license": "GPL-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "a450217753fba8d53e87a0909f96d05dbb622a8a12b74e8d26048b0cc6b7f1fa",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2605.06772-scalar/upstream/judges/llm.py",
+    "source": "https://github.com/xand-stapleton/ai_agents/blob/8bae8219959d4e8ae1085694e5629a423bcf64ac/judges/llm.py",
+    "license": "GPL-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "e7848a1d2617c852ded120d6c8e3641b603dc0e641c79e4b26018bfc0c9206d1",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2606.26448-autocog/paper-prompts/01-experiment-proposal.md",
+    "source": "https://arxiv.org/html/2606.26448v1#Sx12.SSx1",
+    "license": "CC BY 4.0",
+    "changes": "由 arXiv HTML 的 verbatim 區塊抽取，每個原始行保留一行；加上訊息角色與來源標頭，未改寫提示文字。",
+    "sha256": "cd63557254788f355e0f385a08ea1d98f063df013a4b42ee0b7d913cd6d10889",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2606.26448-autocog/paper-prompts/02-metric-proposal.md",
+    "source": "https://arxiv.org/html/2606.26448v1#Sx12.SSx2",
+    "license": "CC BY 4.0",
+    "changes": "由 arXiv HTML 的 verbatim 區塊抽取，每個原始行保留一行；加上訊息角色與來源標頭，未改寫提示文字。",
+    "sha256": "ef0143933449dfbe707f24b808772510ba28142fbfd32513a6c3898d9e9b7b1d",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2606.26448-autocog/paper-prompts/03-interpret-results.md",
+    "source": "https://arxiv.org/html/2606.26448v1#Sx12.SSx3",
+    "license": "CC BY 4.0",
+    "changes": "由 arXiv HTML 的 verbatim 區塊抽取，每個原始行保留一行；加上訊息角色與來源標頭，未改寫提示文字。",
+    "sha256": "456e15815589a819ac7644ae168b310715069b14aa119a6f64fad2304441b6f2",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2606.26448-autocog/paper-prompts/04-arbitration.md",
+    "source": "https://arxiv.org/html/2606.26448v1#Sx12.SSx4",
+    "license": "CC BY 4.0",
+    "changes": "由 arXiv HTML 的 verbatim 區塊抽取，每個原始行保留一行；加上訊息角色與來源標頭，未改寫提示文字。",
+    "sha256": "a7a9970c5799008e05a4e86724414e5c5a45aa72c2ffe6378bd89f805598ddf6",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2606.26448-autocog/paper-prompts/05-theory-generation.md",
+    "source": "https://arxiv.org/html/2606.26448v1#Sx12.SSx5",
+    "license": "CC BY 4.0",
+    "changes": "由 arXiv HTML 的 verbatim 區塊抽取，每個原始行保留一行；加上訊息角色與來源標頭，未改寫提示文字。",
+    "sha256": "002b9c0d7ab2d104ca2bec999379a137a4047c2db2aaaeee69d703fe235e2750",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2606.26448-autocog/paper-prompts/06-model-improvement.md",
+    "source": "https://arxiv.org/html/2606.26448v1#Sx12.SSx6",
+    "license": "CC BY 4.0",
+    "changes": "由 arXiv HTML 的 verbatim 區塊抽取，每個原始行保留一行；加上訊息角色與來源標頭，未改寫提示文字。",
+    "sha256": "0939f5a47ea278e8e59283a929ce8115b563a9a4861f52ac2995a5818cd8f7f8",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2606.26448-autocog/paper-prompts/07-feedback.md",
+    "source": "https://arxiv.org/html/2606.26448v1#Sx12.SSx7",
+    "license": "CC BY 4.0",
+    "changes": "由 arXiv HTML 的 verbatim 區塊抽取，每個原始行保留一行；加上訊息角色與來源標頭，未改寫提示文字。",
+    "sha256": "1373f24fba9ae42f804387bee135db3d1b4ced2c272ad21d09a272783f48315e",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2606.26448-autocog/paper-prompts/08-llm-judge.md",
+    "source": "https://arxiv.org/html/2606.26448v1#Sx12.SSx8",
+    "license": "CC BY 4.0",
+    "changes": "由 arXiv HTML 的 verbatim 區塊抽取，每個原始行保留一行；加上訊息角色與來源標頭，未改寫提示文字。",
+    "sha256": "e949f81d02d6ada7a4ee843e507eabcf3c04869189e1029dbe46592307580966",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2606.26448-autocog/paper.pdf",
+    "source": "https://arxiv.org/pdf/2606.26448v1",
+    "license": "CC BY 4.0",
+    "changes": "原始 PDF，未修改。",
+    "sha256": "7b1717d4c4707e5a1b0e68ad8112cceac90758cfc6bffeae65b967ce8a1fb9ed",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2606.26448-autocog/upstream/LICENSE",
+    "source": "https://github.com/akjagadish/autocog/blob/56ed3c9c389a5309fc245c8d3976add7d277bd4b/LICENSE",
+    "license": "MIT",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "a24dc424d78579b5ce05e7a80d7858110a391aa224477cc1ed74ab8e848a2606",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2606.26448-autocog/upstream/src/prompts/arbitration.py",
+    "source": "https://github.com/akjagadish/autocog/blob/56ed3c9c389a5309fc245c8d3976add7d277bd4b/src/prompts/arbitration.py",
+    "license": "MIT",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "5b6c5ca5dc2eb5f7155368d7c2ed98f06d7dc96dcf11a153833736312486418e",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2606.26448-autocog/upstream/src/prompts/experiment_proposal.py",
+    "source": "https://github.com/akjagadish/autocog/blob/56ed3c9c389a5309fc245c8d3976add7d277bd4b/src/prompts/experiment_proposal.py",
+    "license": "MIT",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "fa55867c80aade48fa3e7f8daaddb095247bda858f581c2676df6df797a43a46",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2606.26448-autocog/upstream/src/prompts/feedback.py",
+    "source": "https://github.com/akjagadish/autocog/blob/56ed3c9c389a5309fc245c8d3976add7d277bd4b/src/prompts/feedback.py",
+    "license": "MIT",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "9ddce2302102e79c64d91a06dd80cd49ececa09529f1775dfdd6392e913d5b81",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2606.26448-autocog/upstream/src/prompts/interpret_results.py",
+    "source": "https://github.com/akjagadish/autocog/blob/56ed3c9c389a5309fc245c8d3976add7d277bd4b/src/prompts/interpret_results.py",
+    "license": "MIT",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "3056df037815c62b52c0ee1b77dca82510692b581d10d6efba1ac1354947240e",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2606.26448-autocog/upstream/src/prompts/metric_proposal.py",
+    "source": "https://github.com/akjagadish/autocog/blob/56ed3c9c389a5309fc245c8d3976add7d277bd4b/src/prompts/metric_proposal.py",
+    "license": "MIT",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "1c4c90beeeabe3ecb28a2765090b13ec4369994d60c0cd8e938f5dd7db233939",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2606.26448-autocog/upstream/src/prompts/model_improvement.py",
+    "source": "https://github.com/akjagadish/autocog/blob/56ed3c9c389a5309fc245c8d3976add7d277bd4b/src/prompts/model_improvement.py",
+    "license": "MIT",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "14e8cc5b8e09d11e6137b2b1e01d507570861e3d98fa9cb4a99e8b18d1db9e72",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2606.26448-autocog/upstream/src/prompts/theory_generation.py",
+    "source": "https://github.com/akjagadish/autocog/blob/56ed3c9c389a5309fc245c8d3976add7d277bd4b/src/prompts/theory_generation.py",
+    "license": "MIT",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "bef7bb41d304705b40ef6c90e2f363ddc71c5c8d3aac1c3683dce1a1c1057005",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/paper-prompts/ablation-study.md",
+    "source": "https://arxiv.org/html/2610.18933v1#A6.SS4",
+    "license": "CC BY 4.0",
+    "changes": "由 arXiv HTML 的 verbatim 區塊逐行抽取，僅移除 HTML 版面與加入來源標頭。",
+    "sha256": "c0705f5728f7589096b017f1e0087900cf51e512e8e4f6eb571b21a3e4df5795",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/paper-prompts/execution.md",
+    "source": "https://arxiv.org/html/2610.18933v1#A6.SS3",
+    "license": "CC BY 4.0",
+    "changes": "由 arXiv HTML 的 verbatim 區塊逐行抽取，僅移除 HTML 版面與加入來源標頭。",
+    "sha256": "cb9271133d8fcdd12bc08205edb75b92aee29c1adca5e6e225e997ea72e72349",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/paper-prompts/ideation.md",
+    "source": "https://arxiv.org/html/2610.18933v1#A6.SS2",
+    "license": "CC BY 4.0",
+    "changes": "由 arXiv HTML 的 verbatim 區塊逐行抽取，僅移除 HTML 版面與加入來源標頭。",
+    "sha256": "0cee8720960a52c202271ff3274ba61fd6097b21844cb6969af45baf3adb5ae4",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/paper-prompts/task-drafting.md",
+    "source": "https://arxiv.org/html/2610.18933v1#A6.SS5",
+    "license": "CC BY 4.0",
+    "changes": "由 arXiv HTML 的 verbatim 區塊逐行抽取，僅移除 HTML 版面與加入來源標頭。",
+    "sha256": "048e0568d9ca49662d3dfb2d67d4b26b3caecaea8231d359c8e8086ff3c37b4c",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/paper.pdf",
+    "source": "https://arxiv.org/pdf/2610.18933v1",
+    "license": "CC BY 4.0",
+    "changes": "原始 PDF，未修改。",
+    "sha256": "cb170b5435743032755f89b97136464a024df2c0fb4f46286a69945208585fd5",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/LICENSE",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/LICENSE",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "420f6e94d4266a7628735be654b7a99ead74976feb9e99f50bd834d92d03b6e5",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/agents/skills/create-idea/SKILL.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/agents/skills/create-idea/SKILL.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "0d1445fd52928ec7627b3eba29b9810ca82431c285b09c7a3e8c0699ec263eb9",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/agents/skills/draft-task/SKILL.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/agents/skills/draft-task/SKILL.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "66762bc903b54fcbaa5105b514d5e2852671c0aba875a31ef8f38e892c60d76f",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/agents/skills/edit-program/SKILL.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/agents/skills/edit-program/SKILL.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "d375e68d20ef0ee6370e6bf5e6566c910643c84a615a8783b6e3f0755315d5be",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/agents/skills/evaluate-program/SKILL.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/agents/skills/evaluate-program/SKILL.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "250ef36ef16bf6b6c79da057ed92a609c4bc7fc582bc0c98009b1df6fa461c94",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/agents/skills/generate-concept-figure/SKILL.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/agents/skills/generate-concept-figure/SKILL.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "23b62bb7ab5b98704b0d2ed8d271db0c11702090f12ae08becac5636ac42a54f",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/agents/skills/memory-log/SKILL.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/agents/skills/memory-log/SKILL.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "676902cc5dd38f5675f27f713a689a1029e3142894c5fc34bfc36996ed9afff9",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/agents/skills/retrieve-references/SKILL.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/agents/skills/retrieve-references/SKILL.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "1a7db01a842268ee71e64c7c4ecae107c0bdae50198f43aedb86162457f2cffa",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/agents/skills/review-paper/SKILL.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/agents/skills/review-paper/SKILL.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "709c752dafd53070ded6cf0a305a3412fbc607662d756564acccdb2ffa6b1acd",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/agents/skills/scientific-evidence/SKILL.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/agents/skills/scientific-evidence/SKILL.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "7f23790561ccda35f460d3b428853d6890417c381cf46078be8a973632a9c800",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/agents/skills/validate-paper/SKILL.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/agents/skills/validate-paper/SKILL.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "000e726a4e9c77a64026e1cefd2ea8409360336321a4e64eaebc506af1c4b33b",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/agents/skills/verify-rubrics/SKILL.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/agents/skills/verify-rubrics/SKILL.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "266d46ab8b79c44b2f07f398d9843f69a486235cae1ed323d6ec3c7ee16c6e7d",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/agents/skills/write-paper-standalone/SKILL.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/agents/skills/write-paper-standalone/SKILL.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "18a6f353ba1846585273c24f0c4c2525822f73026e48573cf5a44016a8174bd6",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/agents/skills/write-paper/SKILL.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/agents/skills/write-paper/SKILL.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "0079a9aee8a63f162ad7023d26fa66aa5763a99060be547ef2fc5e0adcaae0a3",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/adjudicate_task_design.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/adjudicate_task_design.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "a2c44d82cbb53cc96fa6ef904c1b5988f735b644390fd55a591d5501282dff48",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/audit_task_design_delta.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/audit_task_design_delta.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "4bab043a4f7b8b54085ddb9ec277d2ef22d798ab0bf0b08d042c5b0ba6c44e38",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/design_task.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/design_task.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "e6432d52c4c26f5307cc27218015d4d2f94dbc3121ce167ed1bc986a70a6425e",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/draft_task.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/draft_task.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "9772110c3763bda75b9d43782a902448ce8297e4e2c3c3ed1564b8cdaa874934",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/general.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/general.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "c1bf9d694b12d174790daed762484b24abe8e7844017dcf577d110f41f8bd104",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/harness_edit.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/harness_edit.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "577126d28be98ea5b30f111f27ae25e45ff99a98894797cb3b1150e10b6fda64",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/idea.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/idea.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "0f0c5e91007ccbcafbe611e887da8c17a2c4cd591babf1a92a27ca71f6ffe74b",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/paper.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/paper.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "4d41d659e68e438d4864b997fd8c6deee426824c28643b93ddb3fba20b2979e8",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/paper_detailed_grouped.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/paper_detailed_grouped.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "9f9d97777e267e07a7bf10c47bc48fde4b2d7d52e4bf38ad080d0ffc0a3ed89b",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/paper_edit.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/paper_edit.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "b49ab241bd1529fd805fc978dd6bb0ca53d1109f772cb92ca029a59ad1c908aa",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/paper_edit_standalone.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/paper_edit_standalone.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "05ad1201170eb7634de40c84fa61d6788278555e4bf0c3bb0f41309821dad74d",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/paper_figure_quality_repair.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/paper_figure_quality_repair.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "ef45920e07776d49df5c96acf69c3211baa78c2df58831eca74e62cd434ed04c",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/paper_posthoc_ranking.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/paper_posthoc_ranking.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "45be9a113b5be05ad6df31e745565262f8890c553954673e624927701bc84b4f",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/paper_reference_gaps.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/paper_reference_gaps.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "8ded0a2b0288a37671eaa12a00f07f7767a21e907924553f61f1e5d813b708e5",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/paper_review/evidence_audit.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/paper_review/evidence_audit.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "bc390f0cdadd1aafb29ad1fe0b2caf1db4677f03011b7d41ce9600e7607f1153",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/paper_review/review_json.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/paper_review/review_json.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "4392a953b50b1f7f5e87e9eb1b1e1497536d482ef0954662d0f035928a74dd4b",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/paper_revision.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/paper_revision.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "ec19fa0561a37a88485858a7a661faab47644ac3e37d7ccabbc596d533f59cd8",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/paper_standalone.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/paper_standalone.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "98afb222c69e5a23672a6c7ec385095602b527d395c90840e8715a59bdda9430",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/paper_strategy.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/paper_strategy.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "12e73b1c1f83c6f85da60c1ad92706628e006b9a3cd12669b34e47f42657c0da",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/posthoc_agent.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/posthoc_agent.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "3fcc921fb2895389d6bca82478143f86181ee6ab58a9f985b4a6ded370897ceb",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/posthoc_bootstrap.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/posthoc_bootstrap.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "5c4849a939799d4dbba3acbf5335bd60520590f0e64fa34c2aee5258565b5220",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/posthoc_generate.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/posthoc_generate.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "eefc1e3bbad1c9bf92b383b2945f27fb441fa2cce55673fa21e732737adae768",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/posthoc_select.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/posthoc_select.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "ca3ecf101f483b212ffa9473d23d76f7e0f39b2cd56b8bb0debf8b4e9e32d6bd",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/reference_query_plan.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/reference_query_plan.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "86c0a2e855f0eddc2356756adae58d482fc52ad8b26ad1f6e2c0a8392b8967b1",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/reference_query_plan_edit.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/reference_query_plan_edit.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "1c915247286e37a1d86d3ef4880b0b497c0c33049478ef687dcebaed17387184",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/reference_query_plan_postdraft.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/reference_query_plan_postdraft.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "09e3d56ae360caa539ead009eaa07225bead50e52c1a4b388d75e3d87804365c",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/repair_task.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/repair_task.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "9b4a531b283d6bbf5ee303b46e7bc51cbb52b1c00ff17b8d6a1ffc1b8f7afd29",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/repair_task_design.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/repair_task_design.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "5fa6712b1f3dde6994dd906f8e083ee0444ceaf57a00043760568317cc9614ab",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/repair_task_design_structure.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/repair_task_design_structure.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "0a9d8f58952f7a631ef869cf4ea8c631e3eaf787a838ea22318e9d03e4e7ac1a",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/repair_task_preflight.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/repair_task_preflight.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "178014b40846676098dc2bafb264b991ad44f9e4e671b8647204aba4ab9a6a99",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/repair_task_smoke.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/repair_task_smoke.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "70f8c4599c737f3a8d1152a62b29bc51bce92c5dc4a593d18e16bbd38a3d570b",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/shared/baseline_failures.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/shared/baseline_failures.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "48808a000072faf828784cd1f46bcda4b16c9bd04673619b4f9469a86a391edf",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/shared/candidate_environment.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/shared/candidate_environment.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "2809007c7b4ce443762e4e0443f6b5cd817e844a4d7c73d295fcb9cc2df2d5f2",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/shared/evaluator_evidence.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/shared/evaluator_evidence.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "8272afdbffd82a95444d500a6db66002c367b165041d927d6226a849256320d5",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/shared/evaluator_feasibility.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/shared/evaluator_feasibility.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "00c1dfa7bf6d7667868df478ee0a8456da33724accc27c424b7637bbfda26851",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/shared/repair_diagnostics.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/shared/repair_diagnostics.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "437f35a11da3d9b4d1bc057774764010ac99c2ce7ca5cf9f6d49ea7ec2a8a16c",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/shared/worker_diagnostics.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/shared/worker_diagnostics.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "d59a14b1304a3b9036807bc1ba5c790a82fa9b0c1ce0df2da2affd52a4114459",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/validate_task.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/validate_task.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "be9424a6dd66c586f21fdfac11f49160286ca34c897ef9865b89572be59c3af6",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/validate_task_design.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/validate_task_design.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "a32b09e7c2ef72443aebdd377363a05ed01598378e29f712c07b59fc73d8dad1",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/variant_agent.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/variant_agent.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "c16ccecddd949ab9a982f45c8d6a249b3aebb72a1d5be4fde2b43473ff6f4878",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/variant_generate.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/variant_generate.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "89aeafd6d5c215feeecde1c454399cbe1c1efdef81bccd9c3d3650b6de76e654",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/variant_readme.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/variant_readme.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "b333391b8fe63a170a910ac75d6849711a6f5d3ea3484e187132d26151adae3d",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/variant_retrofit.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/variant_retrofit.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "c00a7ecd25c6406f045fe351de5979b1fbfa4e0b33c207e48c30da7a9e118959",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "scientific-research/2610.18933-agentic-scientist/upstream/src/prompts/variant_select.md",
+    "source": "https://github.com/SakanaAI/AI-Scientist-v3/blob/df8313889a004f8a44a472e19a833cd547bb828a/src/prompts/variant_select.md",
+    "license": "Apache-2.0",
+    "changes": "原始檔 UTF-8 內容保留；僅移置到本篇 upstream/，未執行原始碼。",
+    "sha256": "bb896aa5893ebbd4addbe2926a3ab5ea54271e69d1dd43f3135daaa0da210d22",
+    "accessed": "2026-11-16"
   },
   {
     "path": "story-generation/2608.10337-narrative-keyframing/paper.pdf",
@@ -152,75 +2496,395 @@
     "sha256": "9a1bff8223d61113c90d9742199bcf87d689bf714adc8794142ce4b914aadc6b"
   },
   {
-    "path": "close-reading/2603.06855-poem-interpretation/paper.pdf",
-    "source": "https://arxiv.org/pdf/2603.06855v1",
+    "path": "style-imitation/2601.18353-good-writing/paper.pdf",
+    "source": "https://arxiv.org/pdf/2601.18353v1",
     "license": "CC BY 4.0",
     "changes": "Unmodified PDF",
     "accessed": "2026-11-13",
-    "sha256": "d637dcbcf074812c246744c9268867dc3d212d0dd7720a161c6d456d7f679a43"
+    "sha256": "27121d97dcf57aa91084fc620c7269a5aecf7e5353238ef1a676cdd4d813ad02"
   },
   {
-    "path": "close-reading/2603.06855-poem-interpretation/prompts/close-reading-task.en.txt",
-    "source": "https://github.com/xxxxbrandieeee/close-reading-interface/blob/main/close-reading/src/pageInfo.ts",
-    "license": "MIT",
-    "changes": "Extracted page5_1.left_top_instruction; HTML removed; UI wording retained",
+    "path": "style-imitation/2601.18353-good-writing/prompts/style-imitation.adapted.en.txt",
+    "source": "https://arxiv.org/html/2601.18353v1#S3.SS1.SSS3",
+    "license": "Original adaptation; source method cited",
+    "changes": "New reusable wording based on the study method; literary excerpts and author-specific content omitted",
     "accessed": "2026-11-13",
-    "sha256": "b037f81dd0aa6155697767be71a25e5a92e86e5c5523341377a906bc8aa89fce"
+    "sha256": "7acadc35bec8804cda721d313b8ceba74a0e65ca55e1c23e1b12df174622d485"
   },
   {
-    "path": "human-ai-cowriting/2604.03529-incentives/paper.pdf",
-    "source": "https://arxiv.org/pdf/2604.03529v2",
-    "license": "CC BY 4.0",
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/context/participant-task-instructions-pdf-extraction.txt",
+    "source": "https://arxiv.org/pdf/2608.04198v1#page=78",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "Appendix F.3–F.6 的原始 PDF 文字解析節錄；圖表與表格版面以 paper.pdf 及 report-page PNG 為準。",
+    "sha256": "2a928fb77cb98e6df65820fc835c38ff5b70afea7dddd8ec1015bed9b4a153b1",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/context/report-page-79.png",
+    "source": "https://arxiv.org/pdf/2608.04198v1#page=79",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "原 PDF 整頁轉 PNG（150 dpi）；包含原始報告圖／教學地圖，未裁切或修改。",
+    "sha256": "dcae4b8e63f30618b0be9cdc313b0dfede96aaf42e3b4338679873d1eba86c9a",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/context/report-page-82.png",
+    "source": "https://arxiv.org/pdf/2608.04198v1#page=82",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "原 PDF 整頁轉 PNG（150 dpi）；包含原始報告圖／教學地圖，未裁切或修改。",
+    "sha256": "ac5f8ef8b0611055c2541e61314413be770c1e4745621e29100481432109dd22",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/context/report-page-86.png",
+    "source": "https://arxiv.org/pdf/2608.04198v1#page=86",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "原 PDF 整頁轉 PNG（150 dpi）；包含原始報告圖／教學地圖，未裁切或修改。",
+    "sha256": "b74e90d59f6ad67349cebb96218b202a714506b02ef424fe65c8a3d196d3f571",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/context/report-page-90.png",
+    "source": "https://arxiv.org/pdf/2608.04198v1#page=90",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "原 PDF 整頁轉 PNG（150 dpi）；包含原始報告圖／教學地圖，未裁切或修改。",
+    "sha256": "c0c7b795ca29967546dd4a2df59258285535743894689fce7591be3b8480cf61",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/paper.pdf",
+    "source": "https://arxiv.org/pdf/2608.04198v1",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "無；原始 PDF。",
+    "sha256": "55d0478699e08ad76b68ccc6355253b7758187e92c1ea4c96ad8e8500dd4ee0b",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/prompts/assistant-cafeteria.txt",
+    "source": "https://arxiv.org/pdf/2608.04198v1#page=97",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "LiteParse PDF 文字提取；移除頁碼與分頁、接合斷字。三個表格依原頁視覺核對後展平欄名；cafeteria 浮動表格移到其說明之後，其餘 wording 不改。",
+    "sha256": "c7366f2ad52091f2cdacd8039d37a9707a7fd36efd945ff00e3d858f85caa7c9",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/prompts/assistant-food-delivery.txt",
+    "source": "https://arxiv.org/pdf/2608.04198v1#page=93",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "LiteParse PDF 文字提取；移除頁碼與分頁、接合斷字。三個表格依原頁視覺核對後展平欄名；cafeteria 浮動表格移到其說明之後，其餘 wording 不改。",
+    "sha256": "5e1b645a3ef18ad98cea7dec9ca61a62dc278f00221a31c8ec72a3bdd8a9df73",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/prompts/assistant-home-appliances.txt",
+    "source": "https://arxiv.org/pdf/2608.04198v1#page=95",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "LiteParse PDF 文字提取；移除頁碼與分頁、接合斷字。三個表格依原頁視覺核對後展平欄名；cafeteria 浮動表格移到其說明之後，其餘 wording 不改。",
+    "sha256": "f395340e2f84965b40f3912ff7d9d3ade6ef3d1d4419b7b10ab9ad502f984977",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/prompts/assistant-tutorial.txt",
+    "source": "https://arxiv.org/pdf/2608.04198v1#page=99",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "LiteParse PDF 文字提取；移除頁碼與分頁、接合斷字。三個表格依原頁視覺核對後展平欄名；cafeteria 浮動表格移到其說明之後，其餘 wording 不改。",
+    "sha256": "6bcaf9bb96e505bc641a9bb1c4e682d88240c7df5956bba4c37afd3a67e3e0b5",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/LICENSE",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/LICENSE",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai-use-classification/system-prompts/classification_prompt.md",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai-use-classification/system-prompts/classification_prompt.md",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "9d0ef3c0f74eed19401b3d6fc5ed7014eee6b5cbd2b7ef0c647c2a74ea9b7ad5",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai_grading/independent-researcher/strategy-1/gpt-5.1-pro-generic-rubric-prompts.md",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai_grading/independent-researcher/strategy-1/gpt-5.1-pro-generic-rubric-prompts.md",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "86b386330ab4b9e6edd537a882043dbb0664c652ff4d7ef42fef7d4985245063",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai_grading/independent-researcher/strategy-1/grader_prompt_v1.md",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai_grading/independent-researcher/strategy-1/grader_prompt_v1.md",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "058a442e7c8438efb5368e86779ec0393bff5f52c1d675230883ec22e15cf3f9",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai_grading/independent-researcher/strategy-2/gpt-5.1-pro-detailed-rubric-prompts.md",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai_grading/independent-researcher/strategy-2/gpt-5.1-pro-detailed-rubric-prompts.md",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "25019322fd34a2cee600da43296bfb50bb3e27a6ff50293d51a5fcf3e5783f01",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai_grading/independent-researcher/strategy-2/grader_prompt_v2.md",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai_grading/independent-researcher/strategy-2/grader_prompt_v2.md",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "d9704769f2b525f01363583d4d3f8fb7051568c4825321d9ceccb3a378106f18",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai_grading/independent-researcher/strategy-2/grader_schema.yml",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai_grading/independent-researcher/strategy-2/grader_schema.yml",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "86d82c1c50054e0b6a59edc9b51fdf4b1906378eac7fd6a4c2f0b5743b1684f8",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai_grading/independent-researcher/strategy-2/task-materials/lunch/detailed_task_facts_lunch.md",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai_grading/independent-researcher/strategy-2/task-materials/lunch/detailed_task_facts_lunch.md",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "6536b18bf8e1f6641fb004378320798be2b9471ac408c475566a638e01213bb3",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai_grading/independent-researcher/strategy-2/task-materials/lunch/detailed_task_rubric_lunch.md",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai_grading/independent-researcher/strategy-2/task-materials/lunch/detailed_task_rubric_lunch.md",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "faedb51192fe3e8fdc1eacfe84ff4d9f6fa1a23b358d76e80fa562234b7a0d8b",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai_grading/independent-researcher/strategy-2/task-materials/rest/detailed_task_facts_rest.md",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai_grading/independent-researcher/strategy-2/task-materials/rest/detailed_task_facts_rest.md",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "d39565af0d22a9b513a96283372cf9fd9d54f7adc39516f33834da8495283830",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai_grading/independent-researcher/strategy-2/task-materials/rest/detailed_task_rubric_rest.md",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai_grading/independent-researcher/strategy-2/task-materials/rest/detailed_task_rubric_rest.md",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "5842113df58f9b1914da3352733a2a972971847968a936a9bb7cd57b6de45e65",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai_grading/independent-researcher/strategy-2/task-materials/sales/detailed_task_facts_sales.md",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai_grading/independent-researcher/strategy-2/task-materials/sales/detailed_task_facts_sales.md",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "c6a8946501ec5141cbde1ffd1c14c45a39bd4908ee012b34ba1cad3a55d3a19a",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai_grading/independent-researcher/strategy-2/task-materials/sales/detailed_task_rubric_sales.md",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai_grading/independent-researcher/strategy-2/task-materials/sales/detailed_task_rubric_sales.md",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "0e8b2391c1dc085480cd8f5f520830dd6105fc6edb03d453aaae29fee283bbb3",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai_grading/independent-researcher/strategy-3/elo_prompt.md",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai_grading/independent-researcher/strategy-3/elo_prompt.md",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "c47ae25160620e9a21214b742a66aff769027abe3047967fc4fc5c26aa350a22",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai_grading/independent-researcher/strategy-3/elo_schema.yml",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai_grading/independent-researcher/strategy-3/elo_schema.yml",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "39ab325b804bd452ae89dc8becc47346ce030362760c3f7777044c31ea987bc6",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai_grading/main-pipeline/rubrics/followup/lunch_fup_guides.json",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai_grading/main-pipeline/rubrics/followup/lunch_fup_guides.json",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "f7c1d10d366adb32394af1a5ada8ff79b415274154f15581bcc53a2ac6642735",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai_grading/main-pipeline/rubrics/followup/rest_fup_guides.json",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai_grading/main-pipeline/rubrics/followup/rest_fup_guides.json",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "756b12e4c150bf58c170784f7fc23882255359c133be7cb4144777e55ae27828",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai_grading/main-pipeline/rubrics/followup/sales_fup_guides.json",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai_grading/main-pipeline/rubrics/followup/sales_fup_guides.json",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "fc0200607957061db11404e3da5edc7a296057bfe4b1ef4b20d594ff871c9838",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai_grading/main-pipeline/rubrics/task/lunch_task_guides.json",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai_grading/main-pipeline/rubrics/task/lunch_task_guides.json",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "53b1386ebb1ea16d1342ca0a61454ebec4c018402cf136deb4bc034356036040",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai_grading/main-pipeline/rubrics/task/rest_task_guides.json",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai_grading/main-pipeline/rubrics/task/rest_task_guides.json",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "829b31e6545057e32eb11691d2666d2e0bd92e32eda09c8f57d74649eb001752",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai_grading/main-pipeline/rubrics/task/sales_task_guides.json",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai_grading/main-pipeline/rubrics/task/sales_task_guides.json",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "f6e82d12460071f096f73ad1ee4452c0e19f17721026e9dccd33fac6a6d138ba",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai_grading/main-pipeline/system-prompts/followup_grading_system_prompt.md",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai_grading/main-pipeline/system-prompts/followup_grading_system_prompt.md",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "2e60f145fa71c7bc989fb5cc52ff952d207ca695a57e91a41b785942c06d0a69",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04198-education-productivity-gap/upstream/ai_grading/main-pipeline/system-prompts/task_grading_system_prompt.md",
+    "source": "https://github.com/ramirogalvez/ai-skill-gap-experiment-data/blob/c144fe68de350b810ac275bd6d6df8219db47fc0/ai_grading/main-pipeline/system-prompts/task_grading_system_prompt.md",
+    "license": "GPL-3.0 (upstream LICENSE)",
+    "changes": "無；作者 repository 的完整原檔，保留換行。",
+    "sha256": "0d15e665a77352219e26dff5eadeedd34a36d0836c609caae0f2d68a2bb48ba9",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04331-intentlint/context/implementation.txt",
+    "source": "https://arxiv.org/html/2608.04331v1#A1.SS1",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "完整 Appendix A.1 文字，HTML 排版轉純文字。",
+    "sha256": "abaa7cc1eec446b500e0067f71d58bb8ca6a74a2d7f99b69d43a6169a8044928",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04331-intentlint/context/rule-example.txt",
+    "source": "https://arxiv.org/html/2608.04331v1#S4.SS2.SSS2",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "擷取論文原始規則 JSON 範例；純文字格式。",
+    "sha256": "848ffcc3015f17a83cdad80bd850316a1440ed35a11d2414554c0a46ba73853d",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04331-intentlint/paper.pdf",
+    "source": "https://arxiv.org/pdf/2608.04331v1",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "無；原始 PDF。",
+    "sha256": "950befc617ed15fbd80263fcec3296fdd37a0fa9208bdbf3ab800cceb9222bce",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04331-intentlint/prompts/linting.txt",
+    "source": "https://arxiv.org/html/2608.04331v1#A1.SS5.SSS2",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "從 HTML 提取完整 blockquote；移除排版標籤、保留段落／換行。",
+    "sha256": "dd4f730599631cbe745ae5bb30889574ea9a5f0d1930f564b5c2d3914edc5037",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04331-intentlint/prompts/rule-checking.txt",
+    "source": "https://arxiv.org/html/2608.04331v1#A1.SS5.SSS1",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "從 HTML 提取完整 blockquote；移除排版標籤、保留段落／換行。",
+    "sha256": "ebabfc083ceb3dee5afa8ef834e9ec0be521eca7105e8a427659af6d9480a0e0",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "work-data-analysis/2608.04331-intentlint/prompts/rule-proposal.txt",
+    "source": "https://arxiv.org/html/2608.04331v1#A1.SS5.SSS3",
+    "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "changes": "從 HTML 提取完整 blockquote；移除排版標籤、保留段落／換行。",
+    "sha256": "6f1421212542e280cb2b9d9dd1ab5a79da6cd6c1239b999aad29b8302ab7f601",
+    "accessed": "2026-11-16"
+  },
+  {
+    "path": "writing-revision/2604.11009-planning-to-revision/paper.pdf",
+    "source": "https://arxiv.org/pdf/2604.11009v2",
+    "license": "CC BY-NC-SA 4.0",
     "changes": "Unmodified PDF",
     "accessed": "2026-11-13",
-    "sha256": "d0f26247776a3f2168ff4554476d3fd8e1a394ef534cada92f04c4cde117a888"
+    "sha256": "1fec75e741aadc3cb6515a7400e6b0dec5deda3569b74a68adc27974b35ddd37"
   },
   {
-    "path": "human-ai-cowriting/2604.03529-incentives/prompts/study1-quality-judge.en.txt",
-    "source": "https://arxiv.org/html/2604.03529v2#A2.SS2.SSSx1",
-    "license": "CC BY 4.0",
+    "path": "writing-revision/2604.11009-planning-to-revision/prompts/01-thesis-ideas.en.txt",
+    "source": "https://arxiv.org/html/2604.11009v2#A3.SS1.SSS1",
+    "license": "CC BY-NC-SA 4.0",
     "changes": "HTML formatting removed; wording retained",
     "accessed": "2026-11-13",
-    "sha256": "a235b34b2afadfa04f04397294d688836788efd3c501dba101b3bc3f3fdef271"
+    "sha256": "219341c8f9cc3e1fa115cf91cb8d8623ac189b5945746ea7ec47d57d58f19ea3"
   },
   {
-    "path": "human-ai-cowriting/2604.03529-incentives/prompts/study1-user-prompts.csv",
-    "source": "https://huggingface.co/datasets/nathanaeljo/ai-cocreation-incentives/blob/475a751e12ca548f51ad631673e1845330ad3c53/study1/processed/ai_requests.csv",
-    "license": "CC BY 4.0",
-    "changes": "Unmodified public CSV; participant IDs are upstream pseudonymous IDs",
-    "accessed": "2026-11-13",
-    "sha256": "8d46d4f8c2a63809f92efa21563fbd80e58536b695cfa2bd87bf928f07fb92e1"
-  },
-  {
-    "path": "human-ai-cowriting/2604.03529-incentives/prompts/study1-examples.md",
-    "source": "https://huggingface.co/datasets/nathanaeljo/ai-cocreation-incentives/blob/475a751e12ca548f51ad631673e1845330ad3c53/study1/processed/ai_requests.csv",
-    "license": "CC BY 4.0",
-    "changes": "First five nonempty participant rows extracted; wording retained; trailing whitespace removed",
-    "accessed": "2026-11-13",
-    "sha256": "5d40c5b9b9f94f1e90dc9aeaf82d8f6ff5da6b51ab4d9328058dbdc423a3caf6"
-  },
-  {
-    "path": "human-ai-cowriting/2604.03529-incentives/prompts/study2-quality-judge.en.txt",
-    "source": "https://arxiv.org/html/2604.03529v2#A2.SS2.SSSx2",
-    "license": "CC BY 4.0",
+    "path": "writing-revision/2604.11009-planning-to-revision/prompts/02-more-thesis-ideas.en.txt",
+    "source": "https://arxiv.org/html/2604.11009v2#A3.SS1.SSS2",
+    "license": "CC BY-NC-SA 4.0",
     "changes": "HTML formatting removed; wording retained",
     "accessed": "2026-11-13",
-    "sha256": "943979943b6fce593796315986649416a66ae57c1bbceafd2773159c74e2c789"
+    "sha256": "0483cee306c038283ade22b48b9f414f25a69f25bf1e6a1cc122e6992794b0c2"
   },
   {
-    "path": "human-ai-cowriting/2604.03529-incentives/prompts/study2-user-prompts.csv",
-    "source": "https://huggingface.co/datasets/nathanaeljo/ai-cocreation-incentives/blob/475a751e12ca548f51ad631673e1845330ad3c53/study2/processed/ai_requests.csv",
-    "license": "CC BY 4.0",
-    "changes": "Unmodified public CSV; participant IDs are upstream pseudonymous IDs",
+    "path": "writing-revision/2604.11009-planning-to-revision/prompts/03-outline.en.txt",
+    "source": "https://arxiv.org/html/2604.11009v2#A3.SS1.SSS3",
+    "license": "CC BY-NC-SA 4.0",
+    "changes": "HTML formatting removed; wording retained",
     "accessed": "2026-11-13",
-    "sha256": "bf572aed5a1cd5aaf7619b646c0d2164b4e53c70dc750e15ea34685297727085"
+    "sha256": "7811d62b576e5df7efa0c47d57e87a8e3013486a508f1f9a790bc83789c0a787"
   },
   {
-    "path": "human-ai-cowriting/2604.03529-incentives/prompts/study2-examples.md",
-    "source": "https://huggingface.co/datasets/nathanaeljo/ai-cocreation-incentives/blob/475a751e12ca548f51ad631673e1845330ad3c53/study2/processed/ai_requests.csv",
-    "license": "CC BY 4.0",
-    "changes": "First five nonempty participant rows extracted; wording retained; trailing whitespace removed",
+    "path": "writing-revision/2604.11009-planning-to-revision/prompts/04-draft.en.txt",
+    "source": "https://arxiv.org/html/2604.11009v2#A3.SS2.SSS1",
+    "license": "CC BY-NC-SA 4.0",
+    "changes": "HTML formatting removed; wording retained",
     "accessed": "2026-11-13",
-    "sha256": "a858343c43b289062754b6a83986233c197ab860460c344dfc552b6464d767c2"
+    "sha256": "6b4b8d650f076a20e94960bc74cfc932a215e59b54fe1b81fea5ff8962aedecd"
+  },
+  {
+    "path": "writing-revision/2604.11009-planning-to-revision/prompts/05-proofreading.en.txt",
+    "source": "https://arxiv.org/html/2604.11009v2#A3.SS3.SSS1",
+    "license": "CC BY-NC-SA 4.0",
+    "changes": "HTML formatting removed; wording retained",
+    "accessed": "2026-11-13",
+    "sha256": "292ca036d61d746489df37432d904092e956b82802d15eed59b5b43b9516e1ae"
+  },
+  {
+    "path": "writing-revision/2604.11009-planning-to-revision/prompts/06-writing-clarity.en.txt",
+    "source": "https://arxiv.org/html/2604.11009v2#A3.SS3.SSS2",
+    "license": "CC BY-NC-SA 4.0",
+    "changes": "HTML formatting removed; wording retained",
+    "accessed": "2026-11-13",
+    "sha256": "04af11f77f1640fc266bb124c30e63c72a7c8bfaf1dbea875d5a4bf007c12cb7"
+  },
+  {
+    "path": "writing-revision/2604.11009-planning-to-revision/prompts/07-argument-improvement.en.txt",
+    "source": "https://arxiv.org/html/2604.11009v2#A3.SS3.SSS3",
+    "license": "CC BY-NC-SA 4.0",
+    "changes": "HTML formatting removed; wording retained",
+    "accessed": "2026-11-13",
+    "sha256": "567abff46c3e5545267a4da15744fa817be293cd479c76b559431e18c6fa438c"
   }
 ]

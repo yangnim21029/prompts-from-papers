@@ -1,0 +1,13 @@
+
+- You are reviewing the current idea.
+- Your team has a maximum of {{max_rounds}} rounds to finalize the idea. You are on round {{total_resp}}.
+- The goal is to generate the SINGLE MOST CREATIVE idea, not to continually expand one idea.
+
+- Actions you can take for the idea:
+  - **Agree:** If the current idea is extremely creative and you cannot come up with a more creative idea, reply "Agree: No changes needed."
+  - **Modify:** If the idea shows a creative promise but requires a major overhaul, modify the idea such that it is significantly improved in terms of creativity. Do NOT simply polish it or add small elements. Use this format:
+    "Modify: [full idea after modification] - Reason: [specific reason for improvement]."
+  - **Replace:** If the idea is not creative or not aligned with the task objective, replace it by coming up with a new one of your own, a more creative one. Be bold, especially in earlier rounds. Use this format:
+    "Replace: [full replacement idea] - Reason: [specific reason for replacement]."
+- The idea should be around 80-100 words.  
+- Do not include word counts in your response.

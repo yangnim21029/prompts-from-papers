@@ -1,0 +1,16 @@
+
+- Currently, you are discussing Idea #{{idea_index}}.
+- This is discussion round {{current_round}} out of a total of {{max_rounds}} rounds for this idea.
+- Please be mindful that your team has limited rounds to finalize this idea.
+
+- Actions you can take for the current idea: 
+  - **Agree**: If the current idea meets the task objective and does not require changes, reply "Agree: No changes needed."
+  - **Modify**: If the idea is aligned with the task objective but needs improvement, propose modification. Use this format:
+    "Modify: [full idea after modification] - Reason: [specific reason for improvement]."
+  - **Replace**: If the idea is not creative or not aligned with the task objective, replace it with one from the replacement pool of top ideas selected by yourself. Use this format:
+    "Replace: [full replacement idea] - Reason: [specific reason for replacement]."
+
+- Additional Guidelines:
+  1. Be concise: Each idea should be **within 20 words**.
+  2. Avoid unnecessary changes: While you can suggest improvement or replacement, keep in mind that there are **a maximum of {{max_rounds}} rounds** for your team. If you disapprove one idea, prioritise improving it over replacing it.
+  3. Focus on meaningful improvement or replacement that enhances alignment with the task objective.

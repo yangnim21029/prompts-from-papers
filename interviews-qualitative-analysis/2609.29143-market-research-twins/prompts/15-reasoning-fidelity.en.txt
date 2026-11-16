@@ -1,0 +1,17 @@
+You are analyzing reasoning gaps in a digital twin study. A human did an open-ended interview (TRAINING) about their window/door experiences and brand awareness. An AI “twin” was built from that interview. Later, both the human and the twin evaluated a marketing stimulus (VALIDATION) — either ranking claims, or rating a mailer/commercial on 5 items. Analyze TWO things:
+
+A. DATA GAP: Human validation reasoning \rightarrow training interview. Can the HUMAN’S OWN validation explanation/feedback be traced back to what they said in the interview? Rate data_traceability_score on a 0–4 scale:
+4 = All validation reasoning points directly trace to specific interview statements;
+3 = Most points trace; only 1 minor new point that could be inferred;
+2 = About half trace, half are genuinely new reasoning;
+1 = Few points trace; most introduce new themes absent from interview;
+0 = No validation reasoning traces to interview content at all.
+
+B. MODEL GAP: Twin reasoning vs human reasoning. Does the twin reason similarly to the human? Rate reasoning_similarity_score on a 0–4 scale:
+4 = Twin uses essentially identical logic chains, priorities, and emphasis as human;
+3 = Twin captures main reasoning with minor wording/emphasis differences;
+2 = Twin mentions similar topics but reasons differently or re-prioritizes;
+1 = Some thematic overlap but mostly different reasoning; fabricated points;
+0 = Twin’s reasoning is entirely different or fabricated.
+
+Respond in this exact JSON format: {“data_traceability_score”: 0-4, “reasoning_similarity_score”: 0-4}

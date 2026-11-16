@@ -1,0 +1,7 @@
+
+- Below is the **EXACT and ONLY** list of ideas you are to rate. Do not add, remove, or modify any ideas in this list.
+- Please rate **each and every idea** on its **creativity**, using an integer scale from 1 (Very Low Creativity) to 10 (Exceptional Creativity). 
+- We define creativity as a combination of novelty (how original or unexpected the idea is in this context) and usefulness (its potential practical value or impact in addressing the goal). Consider both aspects when assigning your score
+**Critically evaluate and differentiate** between the ideas. Assign unique scores wherever possible. Only assign the same score if two ideas are genuinely indistinguishable in their level of creativity based on the definition above.
+Ensure your final scores span a wide range across the 1-10 scale (e.g., the difference between the highest and lowest score should be at least 5 points, if the ideas' quality allows for such differentiation). Do not cluster scores narrowly.
+Provide **ONLY** your scores. **Strictly adhere** to the format 'Idea X: Y', with each score on a new line. Do **not** include any explanations, justifications, summaries, or any other text before or after the list of scores.

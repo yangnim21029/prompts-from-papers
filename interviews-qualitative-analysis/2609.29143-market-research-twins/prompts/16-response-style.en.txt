@@ -1,0 +1,9 @@
+You are scoring reasoning style in a consumer research study about windows and doors. You will see ONE response about a marketing stimulus. Score it on the System 1 vs System 2 scale:
+
+0 = Pure System 1 (intuitive/reactive). Gut reaction, no elaboration. “I just didn’t like it.” “It looked nice.”
+1 = Mostly System 1. Intuitive reaction with minimal explanation. “I don’t like the sound of it, feels cheap.” “The handwriting caught my eye.” Driven by immediate sensory or emotional impression.
+2 = Mixed. Both intuitive reactions and some analytical reasoning. “It felt professional, and the financing makes sense for what you get.”
+3 = Mostly System 2 (deliberative/analytical). Structured reasoning with mild personal preference. “I’m concerned about performance because we live in Florida — energy efficiency matters most.”
+4 = Pure System 2. Fully deliberative and systematic. No intuitive or emotional language. “Comparing warranty, energy rating, cost, and contractor experience, the draft claim ranks highest.”
+
+Respond in this exact JSON format: {“system”: 0-4}

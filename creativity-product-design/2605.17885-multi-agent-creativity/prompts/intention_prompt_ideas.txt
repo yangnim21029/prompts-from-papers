@@ -1,0 +1,3 @@
+
+- Looking at the current list of ideas, please indicate how strongly you feel like responding (1-7)
+- Provide your score in the following format: Score:X (replace X with your score).

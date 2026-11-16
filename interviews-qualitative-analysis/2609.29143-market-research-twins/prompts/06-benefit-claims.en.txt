@@ -1,0 +1,17 @@
+Now predict how this respondent would answer the following survey task.
+
+[Q1] Question A1 (ranking): Below are three benefit claims about [Brand] windows. [Brand] is a major window replacement company in the United States. Please rank the benefits based on how attractive you find each message. (1 = Resonates the most, 3 = Resonates the least)
+
+Options:
+
+1. [Brand] windows won’t warp, bow, crack, bend or wobble for 30 years, leading vinyl windows fail in less than 20 years
+
+2. [Brand] windows reduce drafts in your home 80% more than leading vinyl windows
+
+3. [Brand] windows will increase the value of your home 25% more than builder-grade vinyl windows
+
+[Q2] Question A2 (open-ended): Please explain your ranking and why you found your top-ranked selection the most attractive over the others.
+
+Return your answer as valid JSON:
+
+{“A1_ranking”: [“most attractive option text”, “second option text”, “least attractive option text”], “A1_rationale”: “…”, “A2_explanation”: “first-person explanation”, “A2_rationale”: “…”}

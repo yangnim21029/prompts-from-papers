@@ -1,0 +1,13 @@
+{
+  "name": "Bond Score",
+  "description": "The scale does not contain a score of 1.",
+  "max_score": 5,
+  "possible_scores": [0, 2, 3, 4, 5],
+  "scoring": [
+    {"score": 0, "text": "no suggestions close to the target diagnosis"},
+    {"score": 2, "text": "the suggestions included something related, but unlikely to be helpful"},
+    {"score": 3, "text": "the suggestions included something closely related that might have been helpful"},
+    {"score": 4, "text": "the suggestions included something very close, but not exact"},
+    {"score": 5, "text": "the actual diagnosis was suggested in the differential"}
+  ]
+}

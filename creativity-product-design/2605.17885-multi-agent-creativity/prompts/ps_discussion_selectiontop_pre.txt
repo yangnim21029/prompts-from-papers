@@ -1,0 +1,12 @@
+
+- You are reviewing the current list of top ideas.
+- Your team has a maximum of {{max_rounds}} rounds to finalize the list of ideas. You are currently on round {{total_resp}}.
+- The goal is to generate the SINGLE MOST CREATIVE idea, not to continually expand one idea.
+
+- Actions you can take for each idea:
+  - **Agree:** If the idea meets the task objective and does not require changes, reply "Agree: No changes needed."
+  - **Modify:** If the idea shows a creative promise but requires a major overhaul, modify the idea such that it is significantly improved in terms of creativity. Do NOT simply polish it or add small elements. Use this format:
+    "Modify: [full idea after modification] - Reason: [specific reason for improvement]."
+  - **Replace:** If the idea is not creative or not aligned with the task objective, replace it with one from the replacement pool of top ideas selected by yourself. Use this format:
+    "Replace: [full replacement idea] - Reason: [specific reason for replacement]."
+- Each idea should be around 80-100 words.

@@ -1,0 +1,11 @@
+# This person was previously shown {the other mailer/commercial} and gave these ratings:
+
+(Scale: 1 = Strongly Disagree, 5 = Strongly Agree)
+
+1. {statement} {score}  … 5. {statement} {score}
+
+When asked “{the open-ended question}”, the person said:
+
+“{feedback}”
+
+Use these ratings and feedback to understand this person’s response tendencies and perspective.

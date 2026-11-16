@@ -1,0 +1,52 @@
+# run.yaml
+defaults:
+  registry: references/20_problems.json
+  judge: llm
+  iterations: 3
+  actor_turns: 1
+  critic_turns: 1
+  judge_turns: 1
+  # Provider options: "groq", "ollama", or "llama.cpp"
+  actor_provider: groq
+  actor_model: groq/llama-3.3-70b-versatile
+  critic_provider: groq
+  critic_model: groq/llama-3.3-70b-versatile
+  judge_provider: groq
+  judge_model: groq/llama-3.3-70b-versatile
+  # Model temperature settings: 0.0 = deterministic, higher = more randomness, 1=default
+  actor_temperature: 1
+  critic_temperature: 1
+  judge_temperature: 0.0
+  # History retention: false = clear history between iterations (default, prevents double prompting)
+  # true = retain conversation history (may cause character prompt duplication)
+  actor_retain_history: false
+  critic_retain_history: false
+  # Example Ollama configuration (uncomment to use):
+  # actor_provider: ollama
+  # actor_model: llama3.3
+  # critic_provider: ollama
+  # critic_model: llama3.3
+  # judge_provider: ollama
+  # judge_model: llama3.3
+
+runs:
+  - problem: "Polchinski-1-3" # Level 1
+  - problem: "Polchinski-2-1" # Level 1
+  - problem: "Polchinski-2-7" # Level 1
+  - problem: "VQFT-3" # Level 1
+  - problem: "Peskin-2-3" # Level 1
+  # - problem: "VQFT-8"
+  # - problem: "Polchinski-2-9"
+  # - problem: "Polchinski-3-2"
+  # - problem: "Polchinski-3-13"
+  # - problem: "Polchinski-A-3"
+  # - problem: "Peskin-3-6"
+  # - problem: "Peskin-4-2"
+  # - problem: "Peskin-7-2"
+  # - problem: "Peskin-10-1"
+  # - problem: "Peskin-11-2"
+  # - problem: "Peskin-12-2"
+  # - problem: "Peskin-13-1"
+  # - problem: "Peskin-15-4"
+  # - problem: "Peskin-16-1"
+  # - problem: "Peskin-19-1"

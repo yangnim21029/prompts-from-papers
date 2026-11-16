@@ -1,0 +1,6 @@
+
+- Below is the list of all proposed ideas.
+- Please rate **each and every idea** on its creativity (i.e., novelty and usefulness), using a scale from 1 to 10. 
+- Avoid giving the same score to multiple ideas unless absolutely necessary. 
+- Provide your scores in the format 'Idea X: Y'.
+- Ensure that the scores span a wide range to reflect varying levels of creativity.

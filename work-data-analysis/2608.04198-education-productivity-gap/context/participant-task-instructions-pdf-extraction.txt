@@ -1,0 +1,567 @@
+F.3 Tutorial on how to use the AI assistant
+
+The virtual assistant with which you will interact uses artificial intelligence, and knows
+how to summarize, analyze or edit texts, interpret graphs or tables, and more. To use
+it, you just have to chat with the assistant as if you were asking someone for help: type
+your question or request in the chat box and press "Send." You will receive a reply and
+can continue talking about other aspects, ask for clarifications, etc.
+
+You can use the virtual assistant in different ways to complete the task. For example:
+   • Share your answer with it, and ask it to edit or simplify it, or to correct it
+   • Ask it specific questions, or request suggestions on how to solve the task
+   • Provide it with the entire instructions, and ask it to solve it. Afterwards, you can
+      ask more questions or request clarifications if necessary
+
+You may freely use the assistant’s responses —it is there to help you, we will not
+consider that you are "copying." You may even copy and paste part or all of what it
+writes.
+
+In the remainder of this page, we present a short practice task (which will not be
+graded) to guide you on how to use the virtual assistant.
+
+Practice task
+
+This practice task is a simplified version of the task you will do on the next page. It
+includes an instruction and additional information needed to solve it. Below, you will
+see the virtual assistant, and finally a response box where you must write your solution
+to the task. Important: the virtual assistant has access to the additional information,
+but not to the instructions.
+
+Instructions: Write a short paragraph with the name of the largest country on the map
+and the names of the countries that surround it.
+
+
+
+
+
+
+
+
+
+
+    A42
+
+Additional information:
+
+
+
+
+
+
+
+
+
+
+Below is the virtual assistant. We want to teach you how to use it. An important part
+of that is asking the right questions.
+
+Please follow the instructions below:
+
+(1) Type to the virtual assistant: "Solve the task"
+
+You will see that the assistant describes the information on the map, but does not give
+you the answer, because it does not know the instructions.
+
+(2) Now ask:     "What is the name of the largest country on the map, and what countries
+surround it?"
+
+(3) Finally, ask: "Now write this for me in a short paragraph"
+
+
+
+
+
+
+
+
+
+
+A43
+
+Below is the answer box for the practice task. Write your answer there. If you want,
+you can directly copy or past the assistant’s response, following these steps:
+
+   1. Select the text of the assistant that you want to copy (by left-clicking and dragging
+      the mouse over it). Once the text is selected, right-click and choose the "Copy"
+      option.
+   2. Then, place the mouse over the answer box, right-click again, and select "Paste"
+
+
+
+
+
+
+
+
+
+
+    A44
+
+F.4   Task and follow-up questions - Food delivery service
+
+F.4.1 Task
+
+You work in the management of a premium burger delivery restaurant that has two
+branches (North and South). Each branch has its own employees, who sell burgers
+exclusively through a delivery platform (similar to PedidosYa). Yesterday you received
+the following email from your boss:
+
+ From: Ramiro González <rgonzalez@gmail.com>
+ Subject: problem with online reviews
+
+ Hello, how are you?
+
+ I am writing because I have been reviewing the online opinions of our branches, and I am a
+ bit concerned about the North branch: in recent weeks we have been receiving low ratings
+ due to excessive delivery delays. Could you help me understand what is happening?
+
+ I attach a report prepared by my assistant to help us better understand the situation. Based
+ on the data in this report, I would like your view on the following points:
+     • Could you check whether the problem originates from the delivery platform?
+ • Could it be that the North branch has more orders than the South branch, or that there
+       has been a larger increase in the number of orders in this branch? Or are there no
+      differences in orders between branches?
+  • Is there anything else in the report that you find relevant for understanding what is
+      happening?
+
+ Please substantiate your answers well, since I plan to share this diagnosis with other team
+ members.
+
+ Finally, according to your analysis,          what would you suggest we do to solve this
+ problem?
+
+ Best regards,
+
+ Ramiro
+
+
+
+
+
+
+
+
+
+
+      A45
+
+Attached report
+
+Summary of the problem: In recent weeks, the North branch has been receiving
+low ratings due to excessive delivery delays.
+
+1) Daily number of orders in the last three weeks in the North and South branches:
+
+
+
+
+
+
+
+
+
+
+2) Information on preparation and delivery times for each branch in the last two
+weeks (provided by the delivery platform):
+
+South Branch
+ • Average order acceptance time: 9 minutes
+ • Average preparation time at the restaurant: 18 minutes
+ • Average delivery time (from handover to the courier until delivery to the
+ customer): 13 minutes
+
+North Branch
+ • Average order acceptance time: 10 minutes
+ • Average preparation time in the restaurant: 29 minutes
+ • Average delivery time (from handover to the courier until delivery to the
+ customer): 15 minutes
+
+
+
+
+
+
+
+
+
+
+ A46
+
+    3) Number of employees and their average tenure in each branch:
+
+        North Branch    South Branch
+        Number of Average Tenure Number of Average Tenure
+                Employees  (months)  Employees  (months)
+    Grill staff     2        0.5         2        4.0
+    Assembly staff  4        12.0        3        5.0
+    Cleaning staff  6        15.0        7        7.0
+    Total           12       11.6        12       6.0
+
+
+For control group only: Write an email below with your response to Ramiro.
+
+For treatment group only: At the end of the page you will find the space to write your
+response to Ramiro. Below, you have the virtual assistant, in case you choose to use it.
+Remember that the virtual assistant only knows the information in the attached report.
+
+
+
+
+
+
+
+
+
+
+    Write an email below with your response to Ramiro.
+
+
+    F.4.2 Follow-up questions
+
+    One week after sending your email, you see Ramiro at a meeting. He says:
+
+        A47
+
+                “How are you? I’ve been sick these past few days and haven’t had the chance to read what
+             you sent me yet. I’m just about to go into a meeting where this topic will be discussed. Could
+               you briefly tell me why the North branch is getting low ratings on the delivery platform?”
+
+    Write your response to Ramiro below.
+
+                                                       Page break
+
+                     What did the graph show about the evolution of the number of orders in the two
+    branches?
+     • Throughout the entire period, the North branch had more orders than the South
+       branch
+     • In both branches, the number of orders remained constant throughout the entire
+       period
+     • From a certain point onward, the number of orders increased in both branches
+     • The number of orders in the South branch remained constant, while those in the
+     North branch increased
+
+
+Which of the following statements is correct?
+   • There are more employees in the North branch than in the South branch
+   • There are fewer employees in the North branch than in the South branch
+   • There are more grill employees in the North branch than in the South branch
+   • The number of grill employees is the same in both branches
+
+
+
+
+
+
+
+
+
+
+     A48
+
+F.5   Task and follow-up questions - Home appliances store
+
+F.5.1 Task
+
+You work in an Argentina-based online business selling imported household appli-
+ances. In January 2025, the owner of the business sends you the following email:
+
+ From: Luis González <lgonzalez@gmail.com>
+ Subject: problem with sales of portable heaters and fans
+
+ Good morning,
+
+ I hope you’re doing well. I’m writing because I was reviewing the sales of our products and
+ noticed something unusual with the portable heaters and fans. Historically, our fan sales
+ increase in summer and our heater sales in winter. However, this did not happen in 2024.
+ Could you help me understand what’s going on?
+
+ I attach a report prepared by my assistant to help us better understand the situation. Based
+ on the data in this report, I would like your view on the following points:
+  • To understand whether this problem is specific to these two products, could you check
+      whether in 2024 air conditioner sales were different than usual?
+ • My assistant mentioned that last year there were restrictions on the import of certain
+        electronic products. Could you check whether this might have something to do with
+      it?
+  • Is there anything else in the report that you find relevant for understanding what is
+      happening?
+
+ Please substantiate your answers well, since I plan to share this diagnosis with other team
+ members.
+
+ Finally, according to your analysis,          what would you suggest we do to solve this
+ problem?
+
+ I look forward to your reply.
+
+ Best regards,
+
+ Luis
+
+
+
+
+
+
+
+
+
+
+      A49
+
+Attached report
+
+Summary of the problem: Historically, our portable fan sales increase in summer
+and our portable heater sales in winter. However, this did not happen in 2024.
+
+1) Evolution of sales of air conditioners, portable heaters and portable fans during
+the last two years:
+
+
+
+
+
+
+
+
+
+
+2) The table below indicates, for each product, the number of units ordered from
+the importer and delivered by the importer for each semester in 2023 and 2024.
+
+
+    Air conditioner         Portable heaters Portable fans
+Period       Units  Units   Units  Units  Units  Units
+    ordered delivered ordered delivered ordered delivered
+Jan-Jun 2023  742    741    2,172  2,172  2,145  2,145
+Jul-Dec 2023  494    494    2,125  2,127  2,175  2,175
+Jan-Jun 2024  687    644    2,182  2,183  2,130  2,131
+Jul-Dec 2024  688    619    2,125  2,126  2,150  2,150
+
+
+
+
+
+
+
+
+
+
+A50
+
+3) Each quarter we send an email to our customer base advertising certain products.
+Below are the products included in this email over the last two years:
+   • Jan-Mar 2023: Portable fan, television, air conditioner
+   • Apr-Jun 2023: Refrigerator, washing machine, microwave, portable heater
+   • Jul-Sep 2023: Portable heater, space heater, dishwasher
+   • Oct-Dec 2023: Computer, television, air conditioner, portable fan
+   • Jan-Mar 2024: Electric kettle, air conditioner, portable heater
+   • Apr-Jun 2024: Television, computer, portable fan, microwave
+   • Jul-Sep 2024: Dishwasher, washing machine, electric oven
+   • Oct-Dec 2024: Air conditioner, television, space heater
+
+
+For control group only: Write an email below with your response to Luis.
+
+For treatment group only: At the end of the page you will find the space to write your
+response to Luis. Below, you have the virtual assistant, in case you choose to use it.
+Remember that the virtual assistant only knows the information in the attached report.
+
+
+
+
+
+
+
+
+
+
+    Write an email below with your response to Luis.
+
+
+
+
+
+
+    A51
+
+F.5.2 Follow-up questions
+
+One week after sending your email, you see Luis at the store. He says:
+
+ “How are you? I’ve been sick these past few days and haven’t had the chance to read what
+ you sent me yet. I’m just about to go into a meeting where this topic will be discussed.
+ Could you briefly tell me why we are not selling more heaters in winter and portable fans
+ in summer?”
+
+Write your response to Luis below.
+
+      Page break
+
+What did the graph show about the evolution of portable fan sales during 2024?
+  • They followed the same pattern as air conditioner sales
+  • They remained constant throughout the year
+  • They increased at the end of the year
+  • They declined throughout the year
+
+
+Which of the following statements is true regarding the email that the company sends
+to its customer base?
+  • The products advertised in a period may not match those of the same period in
+  the previous year
+  • The company sends this email every month
+  • Portable heaters are never advertised in the email
+  • Air conditioners are always advertised in the email
+
+
+
+
+
+
+
+
+
+
+  A52
+
+F.6   Task and follow-up questions - Cafeteria
+
+F.6.1 Task
+
+You work in the management of "Sabores Express", a business hired to run the cafeteria
+at the North and South sites of Infotech, a major company. Yesterday you received the
+following email from your boss:
+
+ From: Adriana González <agonzalez@gmail.com>
+ Subject: problem with sales at the North site
+
+ Hello, how are you?
+
+ I’m writing because I’ve been looking at the sales from the past few weeks and I can’t figure
+ out what’s going on in our cafeteria at the North site. Even though Infotech has almost the
+ same number of employees at both sites, we’re selling fewer lunches at the North site than
+ at the South. Could you help me understand what’s happening?
+
+ I attach a report prepared by my team to help us better understand the situation. Based on
+ the data in this report, I would like your view on the following points:
+      • Are customers at the North site choosing other lunch alternatives outside the cafeteria
+      to a greater extent?
+      • Have sales at the North site decreased in general or only at a specific moment?
+      • Is there anything else in the report that you find relevant for understanding what is
+      happening?
+
+ Please substantiate your answers well, since I plan to share this diagnosis with other team
+ members.
+
+ Finally, according to your analysis, what would you suggest we do to solve this
+ problem?
+
+ Best regards,
+
+ Adriana
+
+
+
+
+
+
+
+
+
+
+      A53
+
+  Attached report
+
+  Summary of the problem: Although Infotech has almost the same number of
+  employees at both sites, fewer lunches are sold at the North than at the South site.
+
+  1) Daily number of lunches sold in the cafeteria at each site during the last
+  three weeks:
+
+
+
+
+
+
+
+
+
+
+2) Last week, a survey was conducted among Infotech employees present at the
+office. They were asked where they got their lunch that day. The results are as
+follows:
+
+    Site      Monday           Tuesday          Wednesday        Thursday         Friday
+    South     Cafeteria: 80%   Cafeteria: 76%   Cafeteria: 75%   Cafeteria: 80%   Cafeteria: 78%
+      Other place: 20% Other place: 24% Other place: 25% Other place: 20% Other place: 22%
+    North     Cafeteria: 78%   Cafeteria: 75%   Cafeteria: 80%   Cafeteria: 79%   Cafeteria: 78%
+      Other place: 22% Other place: 25% Other place: 20% Other place: 21% Other place: 22%
+
+   3) Infotech has employees in two different areas: administration and sales.               Ad-
+                                                     ministrative staff can work from home on Fridays, while sales staff are required
+                                                    to be on site from Monday to Friday. The table below shows the characteristics of
+   employees at each site according to their area of work:
+
+                                   South site                    North site
+     Area             Number of                                                       Average Tenure Number of Average Tenure
+                      Employees                                                          (years)     Employees    (years)
+     Administration            20                                                          2.0           81         3.0
+     Sales                     105                                                         3.0           44         2.0
+     Total                     125                                                         2.8          125         2.6
+
+  For control group only: Write an email below with your response to Adriana.
+
+                                                For treatment group only: At the end of the page you will find the space to write your re-
+                                                 sponse to Adriana. Below, you have the virtual assistant, in case you choose to use it.
+  Remember that the virtual assistant only knows the information in the attached report.
+
+
+
+
+                                                A54
+
+    Write an email below with your response to Adriana.
+
+
+F.6.2 Follow-up questions
+
+One week after sending your email, you see Adriana at a meeting. She says:
+
+  “How are you? I’ve been sick these past few days and haven’t had the chance to read what
+  you sent me yet. I’m just about to go into a meeting where this topic will be discussed.
+  Could you briefly tell me why we are selling fewer lunches at the North site?”
+
+Write your response to Adriana below.
+
+        Page break
+
+What did the graph show about daily lunch sales at both sites?
+   • Sales at both sites increase on Tuesdays compared to Mondays
+
+   • At both sites, Monday sales are higher than the previous week’s Friday sales
+
+   • On Fridays, sales drop only at the North site
+
+   • Every day, the North site sells fewer lunches than the South site
+
+
+    A55
+
+Which of the following statements about Infotech employees is true?
+• Only at the North site are Administration staff allowed to work remotely one day
+per week
+• Infotech has Administration and Cleaning staff
+• Both sites have the same total number of employees
+• There are more employees at the South site than at the North
+
+
+
+
+
+
+
+
+
+
+A56
+

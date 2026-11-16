@@ -1,0 +1,3 @@
+
+Task: Vulnerabilities within a supply chain could lead to uncontrolled costs and inefficient delivery schedules. You are collaborating with other team members to come up with one creative idea to tackle supply chain security.
+The idea will be evaluated on its creativity (i.e., it should be both novel and useful).

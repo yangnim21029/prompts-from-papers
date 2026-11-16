@@ -1,0 +1,13 @@
+You will be provided a case, and its corresponding chain of thoughts and final diagnosis answer. Please help by modifying the COT and the final diagnosis answer by inserting an analysis of the diagnosis “{diagnosis}” where you think is most appropriate.
+ 
+Try to keep the original COT unchanged, except for the insertion. Output the entire COT without omission, including even the parts that remain unchanged—just repeat them as they are.
+ 
+Don't emphasize or highlight the diagnosis. 
+ 
+Format your answer in the following JSON structure: 
+“modified_COT”: modified COT; 
+“modified_answer”: modified answer;
+ 
+Here is the case: {case}
+Here is the COT: {COT}
+Here is the final answer: {final_answer}

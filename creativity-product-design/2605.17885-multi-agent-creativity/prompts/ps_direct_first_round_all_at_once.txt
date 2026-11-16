@@ -1,0 +1,5 @@
+
+- Please propose one possible idea for the problem.
+- The idea should be around 80-100 words.
+- Please return only the idea.
+- Do not include any explanations or use markdown formatting.

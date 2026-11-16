@@ -1,0 +1,15 @@
+You are an experienced clinician tasked with creating a case report for a disease. Please follow these steps: 
+1. Begin by narrating the history of the present illness. Start with the key phenotypes, detailing them with the following aspects: when the symptoms first start, their duration, frequency, intensity, and any triggers that alleviate or exacerbate them. 
+2. Add remaining phenotypes as accompanying phenotypes. Also, add some accompanying positive or negative symptoms not listed in the phenotype list. 
+3. Expand on whether the patient has previously sought medical attention or received any treatment elsewhere, the outcomes of these examinations, and how the patient responded to treatment. Incorporate any notable incidents or changes that occurred during the progression of the disease. 
+4. Next, focus on the physical examination considering all phenotypes (both key and non-key). Describe both positive and negative physical examination findings. 
+5. Proceed to comprehensively describe the results of the patient's auxiliary tests, ensuring coverage of all phenotypes. Include at least 2-3 auxiliary test results for a phenotype. Specify reference ranges for test values and use decimal precision where relevant. 
+6. Add some regular negative test results.
+
+The case summary should begin with: "A (age of onset) male/female " and be narrated in an unstructured text format without section headings. 
+Please be completely objective and do not summarize, conclude, suggest and interpret. Don't mention the diagnosis. Instead, rephrase phenotypes appropriately to maintain objectivity and professionalism.
+
+Here is the information you need for synthesis. 
+The key phenotypes include {key_phenotypes}.
+The non-key phenotypes include {left_phenotypes}.
+The age on onset is {age_of_onset}.

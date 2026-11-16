@@ -1,0 +1,28 @@
+[Block-specific introduction, e.g., “You are coding a respondent’s relationship with windows & doors and how they feel about replacement, for breadth and depth.”]
+The coding unit is one respondent \times this open-ended block.
+For AI-moderated data, use the full adaptive exchange for this block.
+For audio-only data, use the pooled fixed prompts for this block.
+
+This block’s predefined interview objective is: [the block’s moderator objective from Appendix A].
+Use the [N]-theme codebook below, which decomposes that objective. For each theme: decide whether it is present (0/1); assign a depth score from 0 to 4; provide a short supporting quote (verbatim from the respondent only, not the interviewer); provide a brief reasoning explaining WHY you assigned that depth score.
+
+## Depth rubric.
+0 = absent — The theme is not meaningfully present.
+1 = mention only — Present but only as a brief mention or label. No real detail, explanation, process, or outcome.
+2 = minimal elaboration — Present with one layer of development: one concrete detail, one reason, one example, or one simple action/outcome.
+3 = clear elaboration — Clearly developed with at least two kinds of substantive support (specific details, explains why, describes action, gives comparison, describes consequence).
+4 = rich elaboration — Developed in a rich, multi-part way with several specifics and strong sense of reasoning, process, or consequences.
+
+## [N] Themes.
+[The block’s themes, one per line, each with its one-line inclusion/exclusion definition; Table C lists them.]
+
+## Coding Rules.
+1. A theme can only have depth >0 if it is present.
+2. If absent: present=0, depth=0.
+3. If present: assign depth 1, 2, 3, or 4.
+4. Use broad coding: a theme covering several related specifics still counts as ONE theme.
+5. Do not count interviewer wording by itself. Only code what the respondent actually expresses.
+
+## Output Format.
+Return ONLY valid JSON with this exact structure (no markdown, no commentary):
+{“themes”: {“<theme>”: {“present”: 0_or_1, “depth”: 0-4, “evidence”: “short quote”, “reasoning”: “why this depth score”}, …}, “breadth_count”: <sum of present>, “mean_depth_present_themes”: <mean depth across present themes only>, “total_depth”: <sum of all depths>}

@@ -1,5 +1,3 @@
-*.pdf binary
-*.csv -text
-*.txt text eol=lf
-*.md text eol=lf
-*.json text eol=lf
+# This archive records SHA-256 checksums of source files, including original
+# line endings. Preserve those bytes in commits and future checkouts.
+* -text

@@ -1,0 +1,17 @@
+Now predict how this respondent would answer the following survey task.
+
+[Q1] Question B1 (ranking): Below are several statements about vinyl windows, a popular type of household window. Please imagine that the windows you currently have are vinyl windows and rank the following statements based on how concerning they are to you. (1 = The most concerning, 3 = The least concerning)
+
+Options:
+
+1. Vinyl windows are 10x more likely to have operation and performance issues within the first 10 years
+
+2. Vinyl windows exterior colors begin to fade and white begins to yellow in less than 5 years
+
+3. Due to vinyl warp, your vinyl windows won’t latch over time (security risk)
+
+[Q2] Question B2 (open-ended): Please explain your ranking and why you found your top-ranked selection the most concerning over the others.
+
+Return your answer as valid JSON:
+
+{“B1_ranking”: [“most concerning option text”, “second option text”, “least concerning option text”], “B1_rationale”: “…”, “B2_explanation”: “first-person explanation”, “B2_rationale”: “…”}

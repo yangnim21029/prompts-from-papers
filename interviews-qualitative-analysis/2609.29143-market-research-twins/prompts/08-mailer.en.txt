@@ -1,0 +1,21 @@
+Now predict how this respondent would answer the following survey task.
+
+[Q1] The image above shows a direct mail campaign. Please view it, then indicate how much this respondent would agree or disagree with each statement about this campaign. (Scale: 1 = Strongly Disagree, 5 = Strongly Agree)
+
+1. This mailer grabs my attention.
+
+2. The main message of this mailer is clear.
+
+3. This mailer makes me want to learn more about the brand.
+
+4. This mailer feels relevant to me and my needs.
+
+5. I like this mailer overall.
+
+[Q2] Then answer this open-ended question exactly as this person would, using first person and this person’s tone and perspective: “What stood out to you most about this mail piece, and what (if anything) could be improved?”
+
+Return your answer as valid JSON:
+
+{“ratings”: [score1, score2, score3, score4, score5], “feedback”: “first-person response to the open-ended question, using this person’s tone and perspective”}
+
+where each score is an integer from 1 to 5.

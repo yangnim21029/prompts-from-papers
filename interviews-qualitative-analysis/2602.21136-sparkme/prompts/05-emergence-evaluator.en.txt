@@ -1,0 +1,209 @@
+EMERGENT_SUBTOPIC_IDENTIFICATION_TEMPLATE = """
+Your task is to identify **Emergent Subtopics** in LLM-led interviews.
+
+  
+
+An emergent subtopic is defined as a **NEW SUBTOPIC** that should be added to the interview agenda.
+
+Emergence is **rare**. Most interviews produce **no new subtopics**.
+
+### Definition of Emergent Subtopic
+
+  
+
+A candidate subtopic qualifies as an emergent subtopic ONLY if it satisfies ALL of the following:
+
+1. It clearly falls **within an existing interview topic**
+2. It **does NOT belong to ANY existing subtopic** under that topic
+  
+
+   - If it can reasonably be addressed (even loosely) within an existing subtopic, it is NOT emergent
+  
+
+3. It enables a **qualitatively new line of inquiry**, not just deeper questioning of an existing subtopic
+4. It reveals at least ONE of the following:
+   (a) A **new dimension, pattern, or tradeoff** not previously captured
+   (b) A **cross-cutting constraint or mental model** that reframes multiple subtopics
+  
+
+   (c) A **latent strategy, failure mode, or decision criterion** that would change how the interview is conducted
+
+  
+
+Fluent elaborations, clarifications, examples, or refinements of existing subtopics are **NOT emergent**.
+
+### Ground Truth Facts
+<ground_truth_facts>
+ground_truth
+</ground_truth_facts>
+
+### Interview Notes
+<interview_notes>
+all_notes
+</interview_notes>
+
+### Output Format (STRICT JSON ONLY)
+  
+
+If there is no emergent subtopic, simply return EMPTY LIST. Otherwise, provide LIST OF emergent subtopic in the format below:
+[
+    {
+        "emergent_subtopic": "Name or concise description of the emergent subtopic",
+        "topic": "Parent interview topic this subtopic belongs to",
+  
+
+        "rationale": "Why this subtopic cannot be placed under any existing subtopic and what qualitatively new inquiry it enables"
+    }
+]
+
+### Your Response
+"""
+
+  
+
+EMERGENT_SUBTOPIC_COVERAGE_EVALUATION = """You are a session scribe who assists an interviewer. You observe the dialogue between the interviewer and the candidate, and your role is to determine investigate each subtopic and its notes to determine whether the subtopic has achieved full coverage or not.
+
+Your objectives:
+  
+
+1. Identify whether each subtopic should be evaluated using the STAR (Situation, Task, Action, Result) framework or a general descriptive evaluation.
+2. Determine whether each subtopic is fully covered.
+  
+
+3. Return a final list of covered subtopics with NO duplicates (including semantically duplicated subtopics).
+
+### Process
+
+#### Step 1: Deduplicate Subtopics (MANDATORY)
+- Subtopics may appear multiple times in the input.
+  
+
+- Treat subtopics with the same or semantically equivalent description as ONE subtopic.
+- Create an internal list of UNIQUE subtopics.
+- All evaluation must be performed only on this deduplicated list.
+
+#### Step 2: Determine Subtopic Nature
+For each UNIQUE subtopic, infer whether it is:
+  
+
+- **STAR-appropriate** → describes a specific event, project, or experience involving actions, challenges, or outcomes.
+  
+
+- **Descriptive** → focuses on background, motivation, interest, reasoning, or conceptual understanding rather than a specific event.
+
+#### Step 3: Evaluate Completeness
+   - For **STAR-appropriate** subtopics:
+       * Coverage requires STAR components:
+         - **Situation:** Context or background
+         - **Task:** Objective or responsibility
+         - **Action:** Steps taken or reasoning
+         - **Result:** Outcome, metric, or reflection
+       * Fully covered when almost all components are clearly present and coherent.
+  
+
+       * However, if notes is already comprehensive, feel free to mark it as covered as there are more important subtopics to be covered in later section.
+   - For **Descriptive** subtopics:
+       * Coverage requires comprehensive factual, reflective, or conceptual detail.
+  
+
+       * Fully covered when the main question or theme is explained with sufficient clarity, logic, and completeness (even if not quantifiable).
+  
+
+       * However, if notes is already comprehensive, feel free to mark it as covered as there are more important subtopics to be covered in later section.
+
+### Subtopics
+<subtopics>
+{emergent_subtopics}
+</subtopics>
+
+### Interview Notes
+<interview_notes>
+{all_notes}
+</interview_notes>
+
+### Output Format (STRICT JSON ONLY)
+Return a LIST of covered subtopics in the following format:
+
+[
+  {
+    "subtopic_covered": "Unique subtopic name",
+    "rationale": "Why this subtopic is covered based on the interview notes"
+  }
+]
+
+If no subtopic is covered, return:
+
+[]
+
+### Your Response
+"""
+
+  
+
+DEDUPLICATION_PROMPT = """You are a post-processing assistant whose ONLY task is to deduplicate covered subtopics.
+
+You are given a LIST of covered subtopics produced by a previous judge.
+Some entries may refer to the SAME underlying concept even if phrased differently.
+
+Your goal is to MERGE semantic duplicates and return a CLEAN list of UNIQUE subtopics.
+
+### Definitions
+
+Two subtopics are considered SEMANTIC DUPLICATES if they:
+  
+
+- Refer to the same underlying concept, skill, experience, system, or interview question
+- Would reasonably be answered by the same explanation
+- Differ only in wording, emphasis, or phrasing
+
+Examples:
+- "Team leadership experience" = "Leading teams"
+- "AI-powered system integration for detecting inconsistencies" =
+  "AI as a proactive system integrator for data consistency"
+
+### Deduplication Procedure (MANDATORY)
+
+Follow these steps STRICTLY:
+
+#### Step 1: Identify Duplicate Groups
+- Compare all subtopics pairwise.
+- Group together subtopics that are semantic duplicates.
+
+#### Step 2: Choose a Canonical Subtopic
+For each duplicate group:
+- Select ONE canonical subtopic name.
+- Prefer:
+  - The most concise phrasing
+  - The most general formulation (not overly specific unless necessary)
+- You MAY rephrase slightly to improve clarity, but do NOT add new meaning.
+
+#### Step 3: Merge Rationales
+- Combine evidence from all rationales in the group.
+- Remove redundancy.
+- Ensure the merged rationale faithfully reflects the interview notes.
+- Do NOT introduce new claims.
+
+### Output Rules (STRICT)
+
+- Return ONLY the deduplicated list.
+- Each subtopic must appear AT MOST ONCE.
+- Do NOT include explanations, commentary, or intermediate steps.
+- Output MUST be valid JSON.
+- If the input list is empty, return an EMPTY LIST.
+
+### Input Covered Subtopics
+<input>
+{covered_subtopics}
+</input>
+
+### Output Format (STRICT JSON ONLY)
+
+[
+  {
+    "subtopic_covered": "Canonical subtopic name",
+    "rationale": "Merged rationale"
+  }
+]
+
+### Your Response
+"""

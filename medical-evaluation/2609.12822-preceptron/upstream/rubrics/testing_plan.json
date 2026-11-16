@@ -1,0 +1,10 @@
+{
+  "name": "Testing Plan",
+  "max_score": 2,
+  "possible_scores": [0, 1, 2],
+  "scoring": [
+    {"score": 0, "text": "The LLM testing plan would be unhelpful"},
+    {"score": 1, "text": "The LLM testing plan would have been helpful or yielded the diagnosis via another test not used in the actual case"},
+    {"score": 2, "text": "The LLM-suggested testing plan was nearly identical to the actual testing plan"}
+  ]
+}

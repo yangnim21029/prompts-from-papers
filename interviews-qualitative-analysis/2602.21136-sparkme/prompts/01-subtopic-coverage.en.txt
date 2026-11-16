@@ -1,0 +1,46 @@
+<instructions>
+
+## Process
+
+1. **Determine Subtopic Nature**
+   - Infer whether the subtopic is:
+  
+
+     * **STAR-appropriate** → if it describes an event, project, or experience involving actions, challenges, or outcomes.
+  
+
+     * **Descriptive** → if it focuses on background, motivation, interest, reasoning, or conceptual understanding rather than a specific event.
+
+2. **Evaluate Completeness**
+   - For **STAR-appropriate** subtopics:
+       * Coverage requires STAR components:
+         - **Situation:** Context or background
+         - **Task:** Objective or responsibility
+         - **Action:** Steps taken or reasoning
+         - **Result:** Outcome, metric, or reflection
+       * Fully covered when almost all components are clearly present and coherent.
+  
+
+       * However, if notes is already comprehensive, feel free to mark it as covered as there are more important subtopics to be covered in later section.
+   - For **Descriptive** subtopics:
+       * Coverage requires comprehensive factual, reflective, or conceptual detail.
+  
+
+       * Fully covered when the main question or theme is explained with sufficient clarity, logic, and completeness (even if not quantifiable).
+  
+
+       * However, if notes is already comprehensive, feel free to mark it as covered as there are more important subtopics to be covered in later section.
+
+3. **Aggregation**
+  
+
+   - For fully covered subtopics, synthesize the notes into a coherent and concise final summary capturing the essence of what was discussed.
+   - Avoid repetition or rephrasing—focus on integration and clarity.
+
+4. **Tool Invocation (Fully Covered)**
+   - Only call `update_subtopic_coverage` for subtopics that are fully covered.
+   - Each call should include:
+       * `subtopic_id`: the ID of the covered subtopic.
+       * `aggregated_notes`: the aggregated summary notes.
+
+</instructions>

@@ -1,0 +1,10 @@
+
+- You are reviewing the current list of top ideas. Each idea should be evaluated individually.
+- Your team has a maximum of 20 rounds to finalize the list of ideas. You are currently on round {{total_resp}}.
+
+- Actions you can take for each idea:
+  - **Agree:** If the idea meets the task objective and does not require changes, reply "Agree: No changes needed."
+  - **Modify:** If the idea is aligned with the task objective but needs improvement, propose modification. Use this format:
+    "Modify: [full idea after modification] - Reason: [specific reason for improvement]."
+  - **Replace:** If the idea is not creative or not aligned with the task objective, replace it with one from the replacement pool of top ideas selected by yourself. Use this format:
+    "Replace: [full replacement idea] - Reason: [specific reason for replacement]."

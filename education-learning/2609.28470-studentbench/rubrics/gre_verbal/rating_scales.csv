@@ -1,0 +1,16 @@
+scale_id,score,label,direction,notes
+lesson_plan_quality_default,1,Very Poor,higher_is_better,Default plan-quality label
+lesson_plan_quality_default,2,Poor,higher_is_better,Default plan-quality label
+lesson_plan_quality_default,3,Average,higher_is_better,Default plan-quality label
+lesson_plan_quality_default,4,Good,higher_is_better,Default plan-quality label
+lesson_plan_quality_default,5,Excellent,higher_is_better,Default plan-quality label
+lesson_plan_answer_accuracy_specific,1,Very Poor (one or more solutions is incorrect),higher_is_better,Later accuracy-specific display labels; exact selected label is in each grade row
+lesson_plan_answer_accuracy_specific,2,Poor (one or more solutions is partially incorrect),higher_is_better,Later accuracy-specific display labels; exact selected label is in each grade row
+lesson_plan_answer_accuracy_specific,3,Average (all solutions are accurate),higher_is_better,Later accuracy-specific display labels; exact selected label is in each grade row
+lesson_plan_answer_accuracy_specific,4,"Good (all solutions are accurate, explanations are good)",higher_is_better,Later accuracy-specific display labels; exact selected label is in each grade row
+lesson_plan_answer_accuracy_specific,5,"Excellent (all solutions are accurate, explanations are extraordinary)",higher_is_better,Later accuracy-specific display labels; exact selected label is in each grade row
+lesson_plan_a_vs_b_preference,-2,Lesson Plan B is significantly better than Lesson Plan A,positive_favors_a_negative_favors_b,
+lesson_plan_a_vs_b_preference,-1,Lesson Plan B is slightly better than Lesson Plan A,positive_favors_a_negative_favors_b,
+lesson_plan_a_vs_b_preference,0,A and B are identical,positive_favors_a_negative_favors_b,
+lesson_plan_a_vs_b_preference,1,Lesson Plan A is slightly better than Lesson Plan B,positive_favors_a_negative_favors_b,
+lesson_plan_a_vs_b_preference,2,Lesson Plan A is significantly better than Lesson Plan B,positive_favors_a_negative_favors_b,

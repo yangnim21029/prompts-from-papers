@@ -1,0 +1,25 @@
+⬇
+
+1
+{
+
+2
+name: "Warn about Cell Modification Cascade"
+
+3
+author: {User A}, // system or user ID
+
+4
+level: ’info’ | ’warn’ | ’error’,
+
+5
+description: "Detects when a user’s prompt is...",
+
+6
+trigger condition: "The user’s prompt...",
+
+7
+context: "Commented cell xx...",
+
+8
+}

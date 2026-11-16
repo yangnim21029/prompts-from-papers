@@ -1,0 +1,62 @@
+\section{Experimental Materials}\label{ec:materials}
+%
+
+\subsection{Tasks}
+Each team received one of three object-combination tasks. The instruction read (translated from Chinese): ``Combine the
+concepts of [object A] and [object B] to design one or more products or services that are both creative and
+feasible.'' The pairs were (i) a backpack and a pet accessory, (ii) a refrigerator and a calendar, and (iii) shoes and a
+map.
+
+\subsection{Platform and Stages}
+After logging in with their student ID, participants read condition-specific instructions, completed an interface
+tutorial, and began the session after a three-second countdown that started only when all three members had finished
+the tutorial. The interface had three panels: a team chat (left), the assistant panel in conditions with access
+(center), and a personal draft editor that saved automatically every minute (right). The instructions (translated)
+asked teams to work through three stages. \emph{Stage 1, divergence (15 minutes):} ``Brainstorm, drawing on the
+features of the two objects, and generate as many preliminary product concepts as possible; you may note them briefly
+in the document panel. Do not make final decisions at this stage; focus first on quantity.'' \emph{Stage 2, focusing
+(15 minutes):} ``Select the best ideas from the first stage (in any number) and develop them. Settle the details of the
+final proposals, name them, describe their functions (within 250 characters), and record them in the document panel.''
+\emph{Stage 3, final review (10 minutes):} ``Review your proposals as a professional product designer would: check
+feasibility and proofread, make sure the final proposals are fully recorded in the document panel, and choose one member
+to submit.'' Each proposal was to be named and described in no more than 250 Chinese characters.
+
+A tool notice told teams with access in which stage or stages they could use the assistant and that they could decide
+for themselves how to use it; its wording was identical across conditions except for the window it named. Teams in the
+no-AI condition were asked to work without online resources or external AI tools. The laboratory disabled access to
+other applications and the internet; workstations were separated by partitions, and offline communication was
+prohibited.
+
+\subsection{Assistant Configuration}
+The assistant was DeepSeek V3.2, called through the provider's API with the model identifier \texttt{deepseek-chat} at
+temperature 0.1. Each team had its own conversation instance. Queries and responses were private to the member who
+issued them; teammates saw assistant content only if it was shared in the chat. At each query, the model received the
+team's 100 most recent chat messages and the following system prompt (translated):
+
+\begin{quote}\small
+You are a Product Design AI Assistant assisting a three-person team with a product innovation design task.
+\emph{Task background.} Current task: \{task name\}. Task requirements: \{task description\}.
+\emph{Your responsibilities.} Assist the team in creative ideation, solution optimization and problem analysis. Answer
+product-design questions.
+\emph{Current stage and behavioral guidelines.} Current stage: \{stage\}. If it is Stage 1, the divergence stage:
+respond quickly to team requests and provide as many possible ideas as possible. If it is Stage 2, the convergence stage:
+assist the team in refining product features, optimizing descriptions, evaluating market potential and screening for the
+best solutions. If it is Stage 3, the final review stage: check for logical flaws, propose improvements and polish final
+descriptions; conduct a final check to ensure the proposal is sound and error-free.
+\emph{Response requirements.} Keep responses concise and professional, within 250 characters. Use a clear structure; lists or
+bullet points are recommended.
+\end{quote}
+
+Outside a team's assigned window, the assistant panel was grayed out with an explanatory message; the no-AI condition
+had no assistant panel. In the warning condition, every assistant response was followed by the statement, in bold
+italics: ``AI serves only as an initial reference point and its outputs may not be accurate or comprehensive. We highly
+encourage you to discuss these ideas further with your team members.''
+
+\subsection{Incentives and Scoring Instructions}
+Participants received 45 RMB for participation. Teams were told that product-design experts would score submissions
+blind, primarily on creativity and feasibility and, to a lesser extent, on quantity. Members of the ten highest-scoring
+teams received a bonus of up to 50 RMB each, and the strongest proposals could be forwarded to industry partners as
+conceptual references. Bonus rankings used the same blinded scores as the analysis.
+
+%
+\clearpage

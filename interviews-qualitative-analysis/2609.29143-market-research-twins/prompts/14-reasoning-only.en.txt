@@ -1,0 +1,5 @@
+# This person was asked about {benefit claims or vinyl concern claims} and explained their reasoning as follows:
+
+“{explanation}”
+
+Based on this reasoning, predict their ranking.

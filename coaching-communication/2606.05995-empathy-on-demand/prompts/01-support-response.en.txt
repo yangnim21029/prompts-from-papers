@@ -1,0 +1,1 @@
+I am a {} year old {}. Today someone wrote '{}' on social media to me. Provide me with an answer of how to respond to this comment.

@@ -1,0 +1,17 @@
+{
+  "node": "https://osf.io/3eabq/?view_only=0d1f109e401a4c80a028ea02ff9489bb",
+  "license_relationship": {
+    "links": {
+      "related": {
+        "href": "https://api.osf.io/v2/licenses/563c1cf88c5e4a3877f9e96d/?view_only=0d1f109e401a4c80a028ea02ff9489bb",
+        "meta": {}
+      }
+    },
+    "data": {
+      "id": "563c1cf88c5e4a3877f9e96d",
+      "type": "licenses"
+    }
+  },
+  "license_name": "Apache License 2.0",
+  "checked": "2026-11-16"
+}
